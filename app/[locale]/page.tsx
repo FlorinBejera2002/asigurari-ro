@@ -1,8 +1,7 @@
 import { faArrowUp } from '@fortawesome/pro-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-
+import Link from 'next/link'
 import { getTranslations } from 'next-intl/server'
-import SmoothScrollLink from '@/components/common/SmoothScrollLink'
 import InsurerLogos from '@/components/insurance/InsurerLogos'
 import AllInsuranceSection from '@/components/sections/AllInsuranceSection'
 import ArticleSection from '@/components/sections/ArticleSection'
@@ -28,7 +27,7 @@ export default async function HomePage() {
       <ArticleSection />
 
       <div className="flex justify-center mx-auto">
-        <SmoothScrollLink
+        <Link
           href="#asigurari"
           className="!no-underline shadow-md group inline-flex items-center gap-2 px-8 py-3 text-gray-800 rounded-md text-base bg-white font-semibold hover:!bg-gray-50 hover:!text-gray-700 focus:!outline-none focus:!ring-0 focus:!shadow-none transition-all duration-200"
         >
@@ -37,7 +36,7 @@ export default async function HomePage() {
             icon={faArrowUp}
             className="text-sm transition-transform duration-200 group-hover:-translate-y-1"
           />
-        </SmoothScrollLink>
+        </Link>
       </div>
 
       <InsurerLogos />

@@ -1,20 +1,30 @@
 import {
+  faBriefcase,
   faChartLine,
+  faChartPie,
   faCheck,
+  faClock,
+  faCoins,
   faCreditCard,
   faEdit,
   faEuroSign,
+  faGraduationCap,
   faHandshake,
+  faHeartbeat,
   faInfoCircle,
   faLayerGroup,
   faList,
   faMapMarkerAlt,
   faPiggyBank,
+  faPlane,
   faPlus,
   faPlusCircle,
   faQuestionCircle,
+  faSearch,
   faShield,
+  faShieldAlt,
   faShieldHeart,
+  faUserShield,
   faUsers
 } from '@fortawesome/pro-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -347,7 +357,10 @@ export default function LifeLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-layer-group text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"></i>
+              <FontAwesomeIcon
+                icon={faLayerGroup}
+                className="text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"
+              />
               <strong>
                 Ce tipuri de asigurare de viață sunt disponibile pe piață
               </strong>
@@ -373,7 +386,10 @@ export default function LifeLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-credit-card text-blue-700 text-lg md:text-2xl mr-2"></i>
+              <FontAwesomeIcon
+                icon={faCreditCard}
+                className="text-blue-700 text-lg md:text-2xl mr-2"
+              />
               <strong>Asigurarea atașată unui credit</strong>
             </h2>
           </div>
@@ -389,7 +405,10 @@ export default function LifeLandingPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full">
             <div className="p-4 rounded-lg border border-gray-200">
               <div className="flex items-center gap-3 mb-3">
-                <i className="fas fa-shield-alt text-blue-600 text-xl"></i>
+                <FontAwesomeIcon
+                  icon={faShieldAlt}
+                  className="text-blue-600 text-xl"
+                />
                 <h3 className="font-bold text-gray-800">
                   Siguranță financiară
                 </h3>
@@ -403,7 +422,10 @@ export default function LifeLandingPage() {
 
             <div className="p-4 rounded-lg border border-gray-200">
               <div className="flex items-center gap-3 mb-3">
-                <i className="fas fa-briefcase text-blue-600 text-xl"></i>
+                <FontAwesomeIcon
+                  icon={faBriefcase}
+                  className="text-blue-600 text-xl"
+                />
                 <h3 className="font-bold text-gray-800">
                   Pierderea locului de muncă
                 </h3>
@@ -423,7 +445,10 @@ export default function LifeLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-piggy-bank text-blue-700 text-lg md:text-2xl mr-2"></i>
+              <FontAwesomeIcon
+                icon={faPiggyBank}
+                className="text-blue-700 text-lg md:text-2xl mr-2"
+              />
               <strong>Asigurarea cu componentă de economisire</strong>
             </h2>
           </div>
@@ -439,7 +464,10 @@ export default function LifeLandingPage() {
 
           <div className="space-y-4">
             <div className="flex items-start gap-3">
-              <i className="fas fa-graduation-cap text-green-500 w-5 leading-none pt-[5px]"></i>
+              <FontAwesomeIcon
+                icon={faGraduationCap}
+                className="text-green-500 w-5 leading-none pt-[5px]"
+              />
               <div>
                 <h3 className="font-bold text-gray-800 mb-2 mt-0.5">
                   Pentru educația copiilor
@@ -453,7 +481,10 @@ export default function LifeLandingPage() {
             </div>
 
             <div className="flex items-start gap-3">
-              <i className="fas fa-plus-circle text-green-500 w-5 leading-none pt-[5px]"></i>
+              <FontAwesomeIcon
+                icon={faPlusCircle}
+                className="text-green-500 w-5 leading-none pt-[5px]"
+              />
               <div>
                 <h3 className="font-bold text-gray-800 mb-2 mt-0.5">
                   Acoperire extinsă
@@ -474,7 +505,10 @@ export default function LifeLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-chart-line text-blue-700 text-lg md:text-2xl mr-2"></i>
+              <FontAwesomeIcon
+                icon={faChartLine}
+                className="text-blue-700 text-lg md:text-2xl mr-2"
+              />
               <strong>Asigurarea cu componentă de investiție</strong>
             </h2>
           </div>
@@ -492,7 +526,10 @@ export default function LifeLandingPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full">
             <div className="p-4 rounded-lg border border-gray-200">
               <div className="flex items-center gap-3 mb-3">
-                <i className="fas fa-chart-pie text-blue-600 text-xl"></i>
+                <FontAwesomeIcon
+                  icon={faChartPie}
+                  className="text-blue-600 text-xl"
+                />
                 <h3 className="font-bold text-gray-800">
                   Protecție împotriva inflației
                 </h3>
@@ -504,7 +541,10 @@ export default function LifeLandingPage() {
 
             <div className="p-4 rounded-lg border border-gray-200">
               <div className="flex items-center gap-3 mb-3">
-                <i className="fas fa-coins text-blue-600 text-xl"></i>
+                <FontAwesomeIcon
+                  icon={faCoins}
+                  className="text-blue-600 text-xl"
+                />
                 <h3 className="font-bold text-gray-800">
                   Cumpărarea unităților de fond
                 </h3>
@@ -523,7 +563,10 @@ export default function LifeLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-edit text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"></i>
+              <FontAwesomeIcon
+                icon={faEdit}
+                className="text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"
+              />
               <strong>Cum poți încheia o poliță de asigurare de viață</strong>
             </h2>
           </div>
@@ -541,7 +584,10 @@ export default function LifeLandingPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6 w-full">
             <div className="border border-gray-200 p-4 rounded-lg text-center">
-              <i className="fas fa-search text-blue-600 text-2xl mb-3"></i>
+              <FontAwesomeIcon
+                icon={faSearch}
+                className="text-blue-600 text-2xl mb-3"
+              />
               <h3 className="font-bold text-blue-700 mb-2">
                 Identificare oferte
               </h3>
@@ -551,7 +597,10 @@ export default function LifeLandingPage() {
             </div>
 
             <div className="border border-gray-200 p-4 rounded-lg text-center">
-              <i className="fas fa-clock text-blue-600 text-2xl mb-3"></i>
+              <FontAwesomeIcon
+                icon={faClock}
+                className="text-blue-600 text-2xl mb-3"
+              />
               <h3 className="font-bold text-blue-700 mb-2">Sub 5 minute</h3>
               <p className="text-gray-700 text-sm">
                 Achiziționarea rapidă online
@@ -559,7 +608,10 @@ export default function LifeLandingPage() {
             </div>
 
             <div className="border border-gray-200 p-4 rounded-lg text-center">
-              <i className="fas fa-shield text-blue-600 text-2xl mb-3"></i>
+              <FontAwesomeIcon
+                icon={faShield}
+                className="text-blue-600 text-2xl mb-3"
+              />
               <h3 className="font-bold text-blue-700 mb-2">Plată securizată</h3>
               <p className="text-gray-700 text-sm">
                 Transfer bancar sau carduri VISA/Mastercard
@@ -586,7 +638,10 @@ export default function LifeLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-plus-circle text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"></i>
+              <FontAwesomeIcon
+                icon={faPlusCircle}
+                className="text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"
+              />
               Alte tipuri de asigurări ce te-ar putea interesa
             </h2>
           </div>
@@ -599,7 +654,10 @@ export default function LifeLandingPage() {
               rel="noopener"
             >
               <div className="text-center">
-                <i className="fas fa-heartbeat text-blue-600 text-3xl mb-4 group-hover:text-green-500 transition-transform duration-300"></i>
+                <FontAwesomeIcon
+                  icon={faHeartbeat}
+                  className="text-blue-600 text-3xl mb-4 group-hover:text-green-500 transition-transform duration-300"
+                />
                 <h3 className="font-bold text-blue-700 text-lg mb-2">
                   Asigurare de Sănătate
                 </h3>
@@ -616,7 +674,10 @@ export default function LifeLandingPage() {
               rel="noopener"
             >
               <div className="text-center">
-                <i className="fas fa-user-shield text-blue-600 text-3xl mb-4 group-hover:text-green-500 transition-transform duration-300"></i>
+                <FontAwesomeIcon
+                  icon={faUserShield}
+                  className="text-blue-600 text-3xl mb-4 group-hover:text-green-500 transition-transform duration-300"
+                />
                 <h3 className="font-bold text-blue-700 text-lg mb-2">
                   Asigurare de Accidente
                 </h3>
@@ -633,7 +694,10 @@ export default function LifeLandingPage() {
               rel="noopener"
             >
               <div className="text-center">
-                <i className="fas fa-plane text-blue-600 text-3xl mb-4 group-hover:text-green-500 transition-transform duration-300"></i>
+                <FontAwesomeIcon
+                  icon={faPlane}
+                  className="text-blue-600 text-3xl mb-4 group-hover:text-green-500 transition-transform duration-300"
+                />
                 <h3 className="font-bold text-blue-700 text-lg mb-2">
                   Asigurare Medicală de Călătorie
                 </h3>

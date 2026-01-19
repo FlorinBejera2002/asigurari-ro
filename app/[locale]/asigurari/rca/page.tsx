@@ -13,7 +13,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import BannerRCA from '@/components/banners/banner-rca'
-import InternalLinksRCA from '@/components/internal-links/InternalLinksRCA'
+import InternalLinksRCA from './InternalLinksRCA'
 
 export const metadata: Metadata = {
   title: 'Asigurare RCA Online - Compară Prețuri și Cumpără RCA | Asigurari.ro',

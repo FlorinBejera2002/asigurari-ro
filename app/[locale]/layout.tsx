@@ -7,6 +7,7 @@ import Footer from '@/components/layout/Footer'
 import Header from '@/components/layout/Header'
 import { locales } from '@/i18n'
 import '@/lib/fontawesome'
+import SmoothScrollProvider from '@/components/providers/SmoothScrollProvider'
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -32,15 +33,17 @@ export default async function LocaleLayout({
     <html lang={locale}>
       <body className="antialiased">
         <NextIntlClientProvider messages={messages}>
-          <div id="container" className="!w-full !max-w-none !m-0 pt-24">
-            <Header />
-            <div id="page" className="!bg-gray-50 !w-full !max-w-none !m-0">
-              {children}
+          <SmoothScrollProvider>
+            <div id="container" className="!w-full !max-w-none !m-0 pt-24">
+              <Header />
+              <div id="page" className="!bg-gray-50 !w-full !max-w-none !m-0">
+                {children}
+              </div>
+              <ScrollToTop />
+              <Footer />
+              <CookiesBanner />
             </div>
-            <ScrollToTop />
-            <Footer />
-            <CookiesBanner />
-          </div>
+          </SmoothScrollProvider>
         </NextIntlClientProvider>
       </body>
     </html>

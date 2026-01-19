@@ -1,3 +1,5 @@
+import { faCheck, faChevronCircleRight } from '@fortawesome/pro-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import Link from 'next/link'
 
 interface BannerOption {
@@ -35,7 +37,10 @@ export default function InsuranceBanner({
           <div className="text-white w-full">
             {options.map((option, index) => (
               <div key={index} className="w-full flex items-start gap-3 mb-2">
-                <i className="fa fa-check text-green-500 mt-1" />
+                <FontAwesomeIcon
+                  icon={faCheck}
+                  className="text-green-500 mt-1"
+                />
                 <p>{option.text}</p>
               </div>
             ))}
@@ -46,7 +51,7 @@ export default function InsuranceBanner({
             className="inline-block pt-2 w-fit text-center bg-blue-700 text-white px-6 md:px-8 py-3 md:py-4 rounded-lg text-base md:text-lg font-semibold md:hover:bg-blue-800 focus:ring-2 focus:ring-blue-500 transition-all duration-200 shadow-md"
           >
             <span className="text-base">{buttonText}</span>
-            <i className="fa fa-chevron-circle-right ml-2" />
+            <FontAwesomeIcon icon={faChevronCircleRight} className="ml-2" />
           </Link>
         </div>
       </div>

@@ -3,7 +3,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import Image from 'next/image'
 import Link from 'next/link'
 import { useTranslations } from 'next-intl'
-import SmoothScrollLink from '../common/SmoothScrollLink'
 
 export default function HeroSection() {
   const t = useTranslations()
@@ -91,7 +90,7 @@ export default function HeroSection() {
                 </div>
               </Link>
 
-              <SmoothScrollLink
+              <Link
                 href="#asigurari"
                 className="christmas-btn offers-button group flex-1 sm:flex-none w-fit inline-flex items-center justify-center px-10 py-4 lg:px-8 lg:py-4 bg-white text-gray-800 rounded-md text-xl md:text-lg font-semibold md:hover:bg-gray-50 transition-all duration-200 shadow-lg"
               >
@@ -100,7 +99,7 @@ export default function HeroSection() {
                   icon={faArrowDown}
                   className="ml-2 text-md group-hover:translate-y-1 transition-all duration-200"
                 />
-              </SmoothScrollLink>
+              </Link>
             </div>
           </div>
         </div>

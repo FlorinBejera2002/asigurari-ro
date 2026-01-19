@@ -37,7 +37,7 @@ export default function Footer() {
               </li>
               <li className="mb-1">
                 <Link
-                  href="/asigurari/casco-econom"
+                  href="/asigurari/casco_econom"
                   className="text-gray-300 text-sm no-underline md:hover:underline md:hover:text-blue-400 md:text-base transition-colors duration-300"
                 >
                   Casco Econom
@@ -109,7 +109,7 @@ export default function Footer() {
               </li>
               <li className="mb-1">
                 <Link
-                  href="/asigurari/accidents-taxi"
+                  href="/asigurari/accidents_taxi"
                   className="text-gray-300 text-sm no-underline md:hover:underline md:hover:text-blue-400 md:text-base transition-colors duration-300"
                 >
                   Accidente Taxi
@@ -117,7 +117,7 @@ export default function Footer() {
               </li>
               <li className="mb-1">
                 <Link
-                  href="/asigurari/accidents-traveler"
+                  href="/asigurari/accidents_traveler"
                   className="text-gray-300 text-sm no-underline md:hover:underline md:hover:text-blue-400 md:text-base transition-colors duration-300"
                 >
                   Accidente Călători
