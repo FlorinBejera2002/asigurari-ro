@@ -1,0 +1,41 @@
+{
+  "home": {
+    "title": "Asigurari.ro - Cea mai mare platformă de asigurări online",
+    "description": "Asigurari.ro este un site online care emite polite in numele societatilor de asigurare prin intermediul Wilson Insurance Broker SRL",
+    "hero": {
+      "title": "Cea mai mare platformă de asigurări online",
+      "subtitle": "Compară ofertele asiguratorilor și alege polița potrivită pentru tine. Simplu, rapid și sigur.",
+      "cta_rca": "Vezi ofertele RCA",
+      "cta_all": "Vezi toate ofertele"
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Contactați-ne pentru asistență"
+    },
+    "damage_info": {
+      "title": "Info Daune",
+      "description": "Informații despre procesul de daune"
+    },
+    "blog": {
+      "title": "Articole utile despre asigurări",
+      "view_all": "Vezi toate articolele",
+      "read_article": "Citește articolul"
+    },
+    "meta": {
+      "h1": "Asigurari online - RCA, CASCO, Călătorie, Locuință",
+      "h2": "Sistemul nostru de asigurări online",
+      "h3": "Povestea noastră"
+    },
+    "asigurari": {
+      "h3_tag": "Asigurări online pentru toate nevoile tale"
+    }
+  },
+  "meta": {
+    "h1": "Asigurari online - RCA, CASCO, Călătorie, Locuință",
+    "h2": "Sistemul nostru de asigurări online",
+    "h3": "Povestea noastră"
+  },
+  "common": {
+    "scroll_to_top": "Scroll sus"
+  }
+}

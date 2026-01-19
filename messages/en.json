@@ -1,0 +1,33 @@
+{
+  "home": {
+    "title": "Asigurari.ro - The largest online insurance platform",
+    "description": "Asigurari.ro is an online site that issues policies on behalf of insurance companies through Wilson Insurance Broker SRL",
+    "hero": {
+      "title": "The largest online insurance platform",
+      "subtitle": "Compare insurers' offers and choose the right policy for you. Simple, fast and secure.",
+      "cta_rca": "See RCA offers",
+      "cta_all": "See all offers"
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Contact us for assistance"
+    },
+    "damage_info": {
+      "title": "Damage Info",
+      "description": "Information about the claims process"
+    },
+    "blog": {
+      "title": "Useful articles about insurance",
+      "view_all": "View all articles",
+      "read_article": "Read article"
+    }
+  },
+  "meta": {
+    "h1": "Online insurance - RCA, CASCO, Travel, Home",
+    "h2": "Our online insurance system",
+    "h3": "Our story"
+  },
+  "common": {
+    "scroll_to_top": "Scroll to top"
+  }
+}
