@@ -1,28 +1,38 @@
-import {
-  faBriefcase,
-  faCheck,
-  faCheckCircle,
-  faCircleInfo,
-  faClipboardList,
-  faClock,
-  faEdit,
-  faGraduationCap,
-  faHammer,
-  faInfoCircle,
-  faList,
-  faMapMarkerAlt,
-  faPlane,
-  faPlusCircle,
-  faShieldAlt,
-  faTimes,
-  faTimesCircle,
-  faUmbrella,
-  faUserCheck
-} from '@fortawesome/pro-solid-svg-icons'
+import { faBriefcase } from '@fortawesome/pro-solid-svg-icons/faBriefcase'
+import { faCheck } from '@fortawesome/pro-solid-svg-icons/faCheck'
+import { faCheckCircle } from '@fortawesome/pro-solid-svg-icons/faCheckCircle'
+import { faCircleInfo } from '@fortawesome/pro-solid-svg-icons/faCircleInfo'
+import { faClipboardList } from '@fortawesome/pro-solid-svg-icons/faClipboardList'
+import { faClock } from '@fortawesome/pro-solid-svg-icons/faClock'
+import { faEdit } from '@fortawesome/pro-solid-svg-icons/faEdit'
+import { faEnvelope } from '@fortawesome/pro-solid-svg-icons/faEnvelope'
+import { faFileAlt } from '@fortawesome/pro-solid-svg-icons/faFileAlt'
+import { faFileContract } from '@fortawesome/pro-solid-svg-icons/faFileContract'
+import { faGraduationCap } from '@fortawesome/pro-solid-svg-icons/faGraduationCap'
+import { faHammer } from '@fortawesome/pro-solid-svg-icons/faHammer'
+import { faHouse } from '@fortawesome/pro-solid-svg-icons/faHouse'
+import { faIdCard } from '@fortawesome/pro-solid-svg-icons/faIdCard'
+import { faInfo } from '@fortawesome/pro-solid-svg-icons/faInfo'
+import { faInfoCircle } from '@fortawesome/pro-solid-svg-icons/faInfoCircle'
+import { faLightbulb } from '@fortawesome/pro-solid-svg-icons/faLightbulb'
+import { faLink } from '@fortawesome/pro-solid-svg-icons/faLink'
+import { faList } from '@fortawesome/pro-solid-svg-icons/faList'
+import { faMapMarkerAlt } from '@fortawesome/pro-solid-svg-icons/faMapMarkerAlt'
+import { faPlane } from '@fortawesome/pro-solid-svg-icons/faPlane'
+import { faPlusCircle } from '@fortawesome/pro-solid-svg-icons/faPlusCircle'
+import { faSearch } from '@fortawesome/pro-solid-svg-icons/faSearch'
+import { faShield } from '@fortawesome/pro-solid-svg-icons/faShield'
+import { faShieldAlt } from '@fortawesome/pro-solid-svg-icons/faShieldAlt'
+import { faSolarPanel } from '@fortawesome/pro-solid-svg-icons/faSolarPanel'
+import { faTimes } from '@fortawesome/pro-solid-svg-icons/faTimes'
+import { faTimesCircle } from '@fortawesome/pro-solid-svg-icons/faTimesCircle'
+import { faUmbrella } from '@fortawesome/pro-solid-svg-icons/faUmbrella'
+import { faUserCheck } from '@fortawesome/pro-solid-svg-icons/faUserCheck'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import BannerTravel from '@/components/banners/banner-travel'
+import TravelCountries from './components/TravelCountries'
 
 export const metadata: Metadata = {
   title:
@@ -392,7 +402,10 @@ export default function TravelLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-info-circle text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"></i>
+              <FontAwesomeIcon
+                icon={faInfoCircle}
+                className="text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"
+              />
               <strong>
                 Ce este asigurarea medicală de călătorie în străinătate?
               </strong>
@@ -478,7 +491,10 @@ export default function TravelLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-check-circle text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"></i>
+              <FontAwesomeIcon
+                icon={faCheckCircle}
+                className="text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"
+              />
               <strong>Care sunt riscurile asigurate</strong>
             </h2>
           </div>
@@ -615,7 +631,10 @@ export default function TravelLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-times-circle text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"></i>
+              <FontAwesomeIcon
+                icon={faTimesCircle}
+                className="text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"
+              />
               <strong>
                 Ce riscuri nu sunt acoperite de asigurarea medicală de călătorie
                 în străinătate?
@@ -698,7 +717,10 @@ export default function TravelLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-edit text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"></i>
+              <FontAwesomeIcon
+                icon={faEdit}
+                className="text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"
+              />
               <strong>
                 Cum poți încheia o poliță de asigurare de sănătate de călătorie?
               </strong>
@@ -720,7 +742,10 @@ export default function TravelLandingPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 w-full">
             <div className="border border-gray-200 p-4 rounded-lg text-center">
-              <i className="fas fa-search text-blue-500 text-2xl mb-3"></i>
+              <FontAwesomeIcon
+                icon={faSearch}
+                className="text-blue-500 text-2xl mb-3"
+              />
               <h3 className="font-bold text-gray-800 mb-2">
                 Identificare oferte
               </h3>
@@ -730,7 +755,10 @@ export default function TravelLandingPage() {
             </div>
 
             <div className="border border-gray-200 p-4 rounded-lg text-center">
-              <i className="fas fa-info text-blue-500 text-2xl mb-3"></i>
+              <FontAwesomeIcon
+                icon={faInfo}
+                className="text-blue-500 text-2xl mb-3"
+              />
               <h3 className="font-bold text-gray-800 mb-2">
                 Informații complete
               </h3>
@@ -740,7 +768,10 @@ export default function TravelLandingPage() {
             </div>
 
             <div className="border border-gray-200 p-4 rounded-lg text-center">
-              <i className="fas fa-file-contract text-blue-500 text-2xl mb-3"></i>
+              <FontAwesomeIcon
+                icon={faFileContract}
+                className="text-blue-500 text-2xl mb-3"
+              />
               <h3 className="font-bold text-gray-800 mb-2">Eliberare poliță</h3>
               <p className="text-gray-700 text-sm">
                 Conform opțiunilor alese de tine
@@ -755,7 +786,10 @@ export default function TravelLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-map-marker-alt text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"></i>
+              <FontAwesomeIcon
+                icon={faMapMarkerAlt}
+                className="text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"
+              />
               <strong>Unde fac asigurare medicală de călătorie?</strong>
             </h2>
           </div>
@@ -772,7 +806,10 @@ export default function TravelLandingPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6 w-full">
             <div className="p-4 rounded-lg border border-gray-200 text-center">
-              <i className="fas fa-clock text-blue-600 text-2xl mb-3"></i>
+              <FontAwesomeIcon
+                icon={faClock}
+                className="text-blue-600 text-2xl mb-3"
+              />
               <h3 className="font-bold text-blue-700 mb-2">Sub 5 minute</h3>
               <p className="text-gray-700 text-sm">
                 Achiziționare rapidă online
@@ -780,7 +817,10 @@ export default function TravelLandingPage() {
             </div>
 
             <div className="p-4 rounded-lg border border-gray-200 text-center">
-              <i className="fas fa-shield text-blue-600 text-2xl mb-3"></i>
+              <FontAwesomeIcon
+                icon={faShield}
+                className="text-blue-600 text-2xl mb-3"
+              />
               <h3 className="font-bold text-blue-700 mb-2">Plată securizată</h3>
               <p className="text-gray-700 text-sm">
                 Transfer bancar sau carduri VISA/Mastercard
@@ -788,7 +828,10 @@ export default function TravelLandingPage() {
             </div>
 
             <div className="p-4 rounded-lg border border-gray-200 text-center">
-              <i className="fas fa-envelope text-blue-600 text-2xl mb-3"></i>
+              <FontAwesomeIcon
+                icon={faEnvelope}
+                className="text-blue-600 text-2xl mb-3"
+              />
               <h3 className="font-bold text-blue-700 mb-2">
                 Livrare instantanee
               </h3>
@@ -811,7 +854,10 @@ export default function TravelLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-clipboard-list text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"></i>
+              <FontAwesomeIcon
+                icon={faClipboardList}
+                className="text-blue-700 text-lg md:text-2xl leading-none pt-[2px] mr-2"
+              />
               <strong>
                 Care sunt pașii de urmat în cazul în care aveți nevoie să
                 folosiți polița de asigurare?
@@ -888,7 +934,10 @@ export default function TravelLandingPage() {
 
             <div className="bg-yellow-50 p-4 rounded-lg border border-yellow-200">
               <h3 className="font-bold text-gray-800 mb-3 flex items-center gap-2">
-                <i className="fas fa-lightbulb text-yellow-500"></i>
+                <FontAwesomeIcon
+                  icon={faLightbulb}
+                  className="text-yellow-500"
+                />
                 Serviciul de decontare directă RCA
               </h3>
               <p className="text-gray-700 leading-relaxed mb-3">
@@ -963,19 +1012,28 @@ export default function TravelLandingPage() {
                 </p>
                 <div className="space-y-2">
                   <div className="flex items-start gap-3">
-                    <i className="fas fa-file-alt text-green-500 mt-1 text-sm"></i>
+                    <FontAwesomeIcon
+                      icon={faFileAlt}
+                      className="text-green-500 mt-1 text-sm"
+                    />
                     <span className="text-gray-700 text-sm">
                       un formular de daună completat
                     </span>
                   </div>
                   <div className="flex items-start gap-3">
-                    <i className="fas fa-id-card text-green-500 mt-1 text-sm"></i>
+                    <FontAwesomeIcon
+                      icon={faIdCard}
+                      className="text-green-500 mt-1 text-sm"
+                    />
                     <span className="text-gray-700 text-sm">
                       copii ale permisului de conducere
                     </span>
                   </div>
                   <div className="flex items-start gap-3">
-                    <i className="fas fa-file-contract text-green-500 mt-1 text-sm"></i>
+                    <FontAwesomeIcon
+                      icon={faFileContract}
+                      className="text-green-500 mt-1 text-sm"
+                    />
                     <span className="text-gray-700 text-sm">
                       polița de asigurare și orice alte dovezi relevante
                       solicitate
@@ -1031,7 +1089,10 @@ export default function TravelLandingPage() {
         >
           <div className="flex items-start gap-2 mb-6">
             <h2 className="text-lg md:text-2xl font-bold">
-              <i className="fas fa-link text-blue-700 text-2xl  text-lg md:text-2xl leading-none pt-[2px] mr-2"></i>
+              <FontAwesomeIcon
+                icon={faLink}
+                className="text-blue-700 text-2xl  text-lg md:text-2xl leading-none pt-[2px] mr-2"
+              />
               <strong>Alte tipuri de asigurări ce te-ar putea interesa</strong>
             </h2>
           </div>
@@ -1043,7 +1104,10 @@ export default function TravelLandingPage() {
               className="flex items-center gap-2 p-3 bg-white border-2 border-gray-100 rounded-lg md:hover:bg-gray-100 transition-colors"
               rel="noopener"
             >
-              <i className="fa-solid fa-house w-6 h-6 text-blue-700 mt-1"></i>
+              <FontAwesomeIcon
+                icon={faHouse}
+                className="w-6 h-6 text-blue-700 mt-1"
+              />
               <strong className="text-gray-800">Asigurare de Viață</strong>
             </Link>
 
@@ -1053,7 +1117,10 @@ export default function TravelLandingPage() {
               className="flex items-center gap-2 p-3 bg-white border-2 border-gray-100 rounded-lg md:hover:bg-gray-100 transition-colors"
               rel="noopener"
             >
-              <i className="fa-solid fa-solar-panel w-6 h-6 text-blue-700 mt-1"></i>
+              <FontAwesomeIcon
+                icon={faSolarPanel}
+                className="w-6 h-6 text-blue-700 mt-1"
+              />
               <strong className="text-gray-800">
                 Asigurare de Accidente Călători
               </strong>
@@ -1065,12 +1132,17 @@ export default function TravelLandingPage() {
               className="flex items-center gap-2 p-3 bg-white border-2 border-gray-100 rounded-lg md:hover:bg-gray-100 transition-colors"
               rel="noopener"
             >
-              <i className="fa-solid fa-hammer w-6 h-6 text-blue-700 mt-1"></i>
+              <FontAwesomeIcon
+                icon={faHammer}
+                className="w-6 h-6 text-blue-700 mt-1"
+              />
               <strong className="text-gray-800">Asigurare de Accidente</strong>
             </Link>
           </div>
         </div>
       </div>
+
+      <TravelCountries />
     </>
   )
 }

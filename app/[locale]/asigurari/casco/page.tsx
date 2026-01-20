@@ -1,18 +1,16 @@
-import {
-  faCalculator,
-  faCheck,
-  faEdit,
-  faInfoCircle,
-  faLink,
-  faList,
-  faQuestionCircle,
-  faSearch,
-  faShield,
-  faShieldAlt,
-  faThumbsUp,
-  faTruck,
-  faUmbrella
-} from '@fortawesome/pro-solid-svg-icons'
+import { faCalculator } from '@fortawesome/pro-solid-svg-icons/faCalculator'
+import { faCheck } from '@fortawesome/pro-solid-svg-icons/faCheck'
+import { faEdit } from '@fortawesome/pro-solid-svg-icons/faEdit'
+import { faInfoCircle } from '@fortawesome/pro-solid-svg-icons/faInfoCircle'
+import { faLink } from '@fortawesome/pro-solid-svg-icons/faLink'
+import { faList } from '@fortawesome/pro-solid-svg-icons/faList'
+import { faQuestionCircle } from '@fortawesome/pro-solid-svg-icons/faQuestionCircle'
+import { faSearch } from '@fortawesome/pro-solid-svg-icons/faSearch'
+import { faShield } from '@fortawesome/pro-solid-svg-icons/faShield'
+import { faShieldAlt } from '@fortawesome/pro-solid-svg-icons/faShieldAlt'
+import { faThumbsUp } from '@fortawesome/pro-solid-svg-icons/faThumbsUp'
+import { faTruck } from '@fortawesome/pro-solid-svg-icons/faTruck'
+import { faUmbrella } from '@fortawesome/pro-solid-svg-icons/faUmbrella'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import type { Metadata } from 'next'
 import Link from 'next/link'

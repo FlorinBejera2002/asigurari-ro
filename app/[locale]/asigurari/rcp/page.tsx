@@ -1,17 +1,15 @@
-import {
-  faCalculator,
-  faCheck,
-  faEdit,
-  faEuroSign,
-  faInfoCircle,
-  faLaptop,
-  faList,
-  faShieldAlt,
-  faTimes,
-  faTimesCircle,
-  faUmbrella,
-  faUserNurse
-} from '@fortawesome/pro-solid-svg-icons'
+import { faCalculator } from '@fortawesome/pro-solid-svg-icons/faCalculator'
+import { faCheck } from '@fortawesome/pro-solid-svg-icons/faCheck'
+import { faEdit } from '@fortawesome/pro-solid-svg-icons/faEdit'
+import { faEuroSign } from '@fortawesome/pro-solid-svg-icons/faEuroSign'
+import { faInfoCircle } from '@fortawesome/pro-solid-svg-icons/faInfoCircle'
+import { faLaptop } from '@fortawesome/pro-solid-svg-icons/faLaptop'
+import { faList } from '@fortawesome/pro-solid-svg-icons/faList'
+import { faShieldAlt } from '@fortawesome/pro-solid-svg-icons/faShieldAlt'
+import { faTimes } from '@fortawesome/pro-solid-svg-icons/faTimes'
+import { faTimesCircle } from '@fortawesome/pro-solid-svg-icons/faTimesCircle'
+import { faUmbrella } from '@fortawesome/pro-solid-svg-icons/faUmbrella'
+import { faUserNurse } from '@fortawesome/pro-solid-svg-icons/faUserNurse'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import type { Metadata } from 'next'
 import Link from 'next/link'

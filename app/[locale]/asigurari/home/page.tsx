@@ -1,14 +1,12 @@
-import {
-  faBan,
-  faComputer,
-  faEdit,
-  faHome,
-  faLink,
-  faList,
-  faPlusCircle,
-  faQuestionCircle,
-  faUmbrella
-} from '@fortawesome/pro-solid-svg-icons'
+import { faBan } from '@fortawesome/pro-solid-svg-icons/faBan'
+import { faComputer } from '@fortawesome/pro-solid-svg-icons/faComputer'
+import { faEdit } from '@fortawesome/pro-solid-svg-icons/faEdit'
+import { faHome } from '@fortawesome/pro-solid-svg-icons/faHome'
+import { faLink } from '@fortawesome/pro-solid-svg-icons/faLink'
+import { faList } from '@fortawesome/pro-solid-svg-icons/faList'
+import { faPlusCircle } from '@fortawesome/pro-solid-svg-icons/faPlusCircle'
+import { faQuestionCircle } from '@fortawesome/pro-solid-svg-icons/faQuestionCircle'
+import { faUmbrella } from '@fortawesome/pro-solid-svg-icons/faUmbrella'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import type { Metadata } from 'next'
 import Link from 'next/link'
