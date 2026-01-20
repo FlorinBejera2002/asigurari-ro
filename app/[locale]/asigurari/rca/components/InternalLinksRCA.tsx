@@ -164,7 +164,7 @@ export default function InternalLinksRCA() {
           {cities.map((city) => (
             <Link
               key={city.slug}
-              href={`/asigurari/rca/${city.slug}`}
+              href={`/asigurari/rca/city/${city.slug}`}
               className="flex items-center gap-3 p-3 bg-white border-2 border-gray-100 rounded-lg md:hover:bg-gray-100 transition-colors"
             >
               <span className="font-bold text-blue-700">{city.name}</span>
