@@ -6,66 +6,66 @@ export const metadata: Metadata = {
   title:
     'Asigurarea de viata pentru persoane cu afectiuni preexistente | asigurari.ro',
   description:
-    'Ai o afectiune medicala si vrei asigurare de viata? âž¤ Descopera optiuni adaptate, criterii de eligibilitate si sfaturi pentru a obtine cea mai buna polita'
+    'Ai o afectiune medicala si vrei asigurare de viata? ➤ Descopera optiuni adaptate, criterii de eligibilitate si sfaturi pentru a obtine cea mai buna polita'
 }
 
 const articleData: BlogArticleData = {
   title:
-    'Cum FuncÈ›ioneazÄƒ Asigurarea de ViaÈ›Äƒ Ã®n Cazul Persoanelor cu AfecÈ›iuni Medicale Preexistente?',
+    'Cum Funcționează Asigurarea de Viață în Cazul Persoanelor cu Afecțiuni Medicale Preexistente?',
   image: '/images/asigurari/blog/life/pat-de-spital.webp',
   image_alt: 'Un pat de spital',
   intro_text:
-    'Asigurarea de viaÈ›Äƒ este o componentÄƒ esenÈ›ialÄƒ a planificÄƒrii financiare, oferind siguranÈ›Äƒ È™i protecÈ›ie pentru cei dragi Ã®n cazul unui eveniment nefericit. Cu toate acestea, pentru persoanele care suferÄƒ de afecÈ›iuni medicale preexistente, obÈ›inerea unei poliÈ›e de asigurare de viaÈ›Äƒ poate deveni o provocare. ÃŽn acest articol, vom analiza modul Ã®n care afecÈ›iunile preexistente influenÈ›eazÄƒ eligibilitatea pentru asigurarea de viaÈ›Äƒ, ce opÈ›iuni existÄƒ È™i cum pot fi obÈ›inute cele mai bune condiÈ›ii de asigurare.',
+    'Asigurarea de viață este o componentă esențială a planificării financiare, oferind siguranță și protecție pentru cei dragi în cazul unui eveniment nefericit. Cu toate acestea, pentru persoanele care suferă de afecțiuni medicale preexistente, obținerea unei polițe de asigurare de viață poate deveni o provocare. În acest articol, vom analiza modul în care afecțiunile preexistente influențează eligibilitatea pentru asigurarea de viață, ce opțiuni există și cum pot fi obținute cele mai bune condiții de asigurare.',
   toc_items: [
     {
       href: '#ce-sunt-afectiunile-preexistente',
-      title: 'Ce sunt afecÈ›iunile medicale preexistente?'
+      title: 'Ce sunt afecțiunile medicale preexistente?'
     },
     {
       href: '#impactul-asupra-eligibilitatii',
       title:
-        'Impactul afecÈ›iunilor preexistente asupra eligibilitÄƒÈ›ii pentru asigurarea de viaÈ›Äƒ'
+        'Impactul afecțiunilor preexistente asupra eligibilității pentru asigurarea de viață'
     },
     {
       href: '#optiuni-pentru-obtinerea-unei-polite-de-viata',
       title:
-        'OpÈ›iuni pentru obÈ›inerea unei poliÈ›e de viaÈ›Äƒ cu afecÈ›iuni preexistente'
+        'Opțiuni pentru obținerea unei polițe de viață cu afecțiuni preexistente'
     },
     {
       href: '#cum-functioneaza-procesul-de-evaluare-medicala',
-      title: 'Cum funcÈ›ioneazÄƒ procesul de evaluare medicalÄƒ?'
+      title: 'Cum funcționează procesul de evaluare medicală?'
     },
     {
       href: '#factori-care-influenteaza-costul-politei',
       title:
-        'Factori care influenÈ›eazÄƒ costul poliÈ›ei pentru persoanele cu afecÈ›iuni preexistente'
+        'Factori care influențează costul poliței pentru persoanele cu afecțiuni preexistente'
     },
     {
       href: '#sfaturi-pentru-a-obtine-o-polita-de-asigurare',
-      title: 'Sfaturi pentru a obÈ›ine o poliÈ›Äƒ de asigurare avantajoasÄƒ'
+      title: 'Sfaturi pentru a obține o poliță de asigurare avantajoasă'
     },
     {
       href: '#intrebari-frecvente',
       title:
-        'ÃŽntrebÄƒri frecvente despre asigurarea de viaÈ›Äƒ È™i afecÈ›iunile preexistente'
+        'Întrebări frecvente despre asigurarea de viață și afecțiunile preexistente'
     }
   ],
   content_sections: [
     {
       id: 'ce-sunt-afectiunile-preexistente',
-      heading: 'Ce sunt afecÈ›iunile medicale preexistente?',
+      heading: 'Ce sunt afecțiunile medicale preexistente?',
       content:
-        'O afecÈ›iune medicalÄƒ preexistentÄƒ se referÄƒ la orice boalÄƒ sau stare de sÄƒnÄƒtate care a fost diagnosticatÄƒ sau pentru care persoana a primit tratament Ã®nainte de aplicarea pentru o poliÈ›Äƒ de asigurare de viaÈ›Äƒ. Aceste afecÈ›iuni pot include o gamÄƒ largÄƒ de probleme de sÄƒnÄƒtate, variind de la afecÈ›iuni minore È™i controlabile la boli cronice È™i condiÈ›ii medicale grave.|<strong>DefiniÈ›ie detaliatÄƒ</strong>: AfecÈ›iunile preexistente sunt orice condiÈ›ii de sÄƒnÄƒtate cunoscute de solicitant Ã®nainte de momentul aplicÄƒrii pentru o asigurare. Acestea pot include afecÈ›iuni diagnosticate oficial, simptome persistente raportate medicului, sau probleme medicale pentru care persoana a primit sau continuÄƒ sÄƒ primeascÄƒ tratament sau monitorizare.|<strong>Exemple de afecÈ›iuni preexistente:</strong>',
+        'O afecțiune medicală preexistentă se referă la orice boală sau stare de sănătate care a fost diagnosticată sau pentru care persoana a primit tratament înainte de aplicarea pentru o poliță de asigurare de viață. Aceste afecțiuni pot include o gamă largă de probleme de sănătate, variind de la afecțiuni minore și controlabile la boli cronice și condiții medicale grave.|<strong>Definiție detaliată</strong>: Afecțiunile preexistente sunt orice condiții de sănătate cunoscute de solicitant înainte de momentul aplicării pentru o asigurare. Acestea pot include afecțiuni diagnosticate oficial, simptome persistente raportate medicului, sau probleme medicale pentru care persoana a primit sau continuă să primească tratament sau monitorizare.|<strong>Exemple de afecțiuni preexistente:</strong>',
       lists: [
         {
           items: [
-            '<strong>Hipertensiune arterialÄƒ (tensiune arterialÄƒ ridicatÄƒ)</strong>: Poate duce la probleme cardiovasculare È™i este adesea un semn de avertizare pentru riscuri suplimentare.',
-            '<strong>Diabet</strong>: Fie cÄƒ este tipul 1 sau tipul 2, diabetul afecteazÄƒ modul Ã®n care organismul gestioneazÄƒ glucoza din sÃ¢nge, crescÃ¢nd riscul de alte complicaÈ›ii precum boli de inimÄƒ È™i insuficienÈ›Äƒ renalÄƒ.',
-            '<strong>AfecÈ›iuni cardiace</strong>: IncluzÃ¢nd angina, infarctul miocardic, insuficienÈ›a cardiacÄƒ È™i alte tulburÄƒri, aceste condiÈ›ii necesitÄƒ o evaluare atentÄƒ de cÄƒtre asiguratori, deoarece pot reprezenta un risc major.',
-            '<strong>Cancer</strong>: Orice tip de cancer, fie cÄƒ este Ã®n remisiune sau activ, este considerat o afecÈ›iune semnificativÄƒ care afecteazÄƒ eligibilitatea È™i costul poliÈ›ei.',
-            '<strong>TulburÄƒri autoimune</strong>: AfecÈ›iuni precum lupusul, scleroza multiplÄƒ È™i artrita reumatoidÄƒ pot cauza fluctuaÈ›ii ale stÄƒrii de sÄƒnÄƒtate È™i necesitÄƒ tratament continuu, ceea ce implicÄƒ riscuri suplimentare.',
-            '<strong>Astm sau afecÈ›iuni respiratorii</strong>: DeÈ™i astmul poate fi gestionat cu succes, severitatea sa È™i frecvenÈ›a atacurilor pot influenÈ›a eligibilitatea pentru o poliÈ›Äƒ de asigurare.',
-            '<strong>AfecÈ›iuni hepatice È™i renale</strong>: Bolile care afecteazÄƒ funcÈ›ia ficatului sau a rinichilor pot avea implicaÈ›ii semnificative asupra longevitÄƒÈ›ii È™i sÄƒnÄƒtÄƒÈ›ii generale, influenÈ›Ã¢nd decizia asigurÄƒtorilor.'
+            '<strong>Hipertensiune arterială (tensiune arterială ridicată)</strong>: Poate duce la probleme cardiovasculare și este adesea un semn de avertizare pentru riscuri suplimentare.',
+            '<strong>Diabet</strong>: Fie că este tipul 1 sau tipul 2, diabetul afectează modul în care organismul gestionează glucoza din sânge, crescând riscul de alte complicații precum boli de inimă și insuficiență renală.',
+            '<strong>Afecțiuni cardiace</strong>: Incluzând angina, infarctul miocardic, insuficiența cardiacă și alte tulburări, aceste condiții necesită o evaluare atentă de către asiguratori, deoarece pot reprezenta un risc major.',
+            '<strong>Cancer</strong>: Orice tip de cancer, fie că este în remisiune sau activ, este considerat o afecțiune semnificativă care afectează eligibilitatea și costul poliței.',
+            '<strong>Tulburări autoimune</strong>: Afecțiuni precum lupusul, scleroza multiplă și artrita reumatoidă pot cauza fluctuații ale stării de sănătate și necesită tratament continuu, ceea ce implică riscuri suplimentare.',
+            '<strong>Astm sau afecțiuni respiratorii</strong>: Deși astmul poate fi gestionat cu succes, severitatea sa și frecvența atacurilor pot influența eligibilitatea pentru o poliță de asigurare.',
+            '<strong>Afecțiuni hepatice și renale</strong>: Bolile care afectează funcția ficatului sau a rinichilor pot avea implicații semnificative asupra longevității și sănătății generale, influențând decizia asigurătorilor.'
           ]
         }
       ],
@@ -73,26 +73,26 @@ const articleData: BlogArticleData = {
       lists_additional: [
         {
           items: [
-            '<strong>TulburÄƒri psihologice È™i de sÄƒnÄƒtate mintalÄƒ</strong>: CondiÈ›ii precum depresia cronicÄƒ, anxietatea severÄƒ sau tulburarea bipolarÄƒ pot fi considerate afecÈ›iuni preexistente.',
-            '<strong>Chirurgii anterioare cu implicaÈ›ii pe termen lung</strong>: De exemplu, intervenÈ›iile cardiace sau bypass-urile pot afecta eligibilitatea pentru poliÈ›ele de asigurare.',
-            '<strong>Sindroame genetice sau moÈ™tenite</strong>: CondiÈ›ii precum hemofilia sau fibroza chisticÄƒ pot influenÈ›a È™ansele de a obÈ›ine o asigurare.'
+            '<strong>Tulburări psihologice și de sănătate mintală</strong>: Condiții precum depresia cronică, anxietatea severă sau tulburarea bipolară pot fi considerate afecțiuni preexistente.',
+            '<strong>Chirurgii anterioare cu implicații pe termen lung</strong>: De exemplu, intervențiile cardiace sau bypass-urile pot afecta eligibilitatea pentru polițele de asigurare.',
+            '<strong>Sindroame genetice sau moștenite</strong>: Condiții precum hemofilia sau fibroza chistică pot influența șansele de a obține o asigurare.'
           ]
         }
       ]
     },
     {
       id: 'impactul-asupra-eligibilitatii',
-      heading: 'Impactul afecÈ›iunilor preexistente asupra eligibilitÄƒÈ›ii',
+      heading: 'Impactul afecțiunilor preexistente asupra eligibilității',
       content:
-        'AfecÈ›iunile medicale preexistente sunt unul dintre principalii factori de risc pe care asiguratorii Ã®i iau Ã®n considerare atunci cÃ¢nd decid dacÄƒ sÄƒ emitÄƒ o poliÈ›Äƒ de viaÈ›Äƒ È™i la ce cost. ÃŽn majoritatea cazurilor, prezenÈ›a unei afecÈ›iuni preexistente poate afecta:',
+        'Afecțiunile medicale preexistente sunt unul dintre principalii factori de risc pe care asiguratorii îi iau în considerare atunci când decid dacă să emită o poliță de viață și la ce cost. În majoritatea cazurilor, prezența unei afecțiuni preexistente poate afecta:',
       subsections: [
         {
           heading: '1. Prima de asigurare',
           lists: [
             {
               items: [
-                '<strong>Prime mai mari</strong>: Persoanele cu afecÈ›iuni preexistente sunt adesea considerate â€žasigurabili substandard", ceea ce Ã®nseamnÄƒ cÄƒ riscul crescut asociat sÄƒnÄƒtÄƒÈ›ii lor duce la prime mai mari.',
-                '<strong>ClasificÄƒri de risc</strong>: Asiguratorii pot clasifica solicitantul Ã®ntr-o categorie de risc mai mare, ceea ce Ã®nseamnÄƒ cÄƒ poliÈ›a va avea un cost mai ridicat comparativ cu o persoanÄƒ fÄƒrÄƒ probleme de sÄƒnÄƒtate.'
+                '<strong>Prime mai mari</strong>: Persoanele cu afecțiuni preexistente sunt adesea considerate „asigurabili substandard", ceea ce înseamnă că riscul crescut asociat sănătății lor duce la prime mai mari.',
+                '<strong>Clasificări de risc</strong>: Asiguratorii pot clasifica solicitantul într-o categorie de risc mai mare, ceea ce înseamnă că polița va avea un cost mai ridicat comparativ cu o persoană fără probleme de sănătate.'
               ]
             }
           ]
@@ -102,31 +102,31 @@ const articleData: BlogArticleData = {
           lists: [
             {
               items: [
-                '<strong>Excluderi specifice</strong>: Unele poliÈ›e pot include excluderi legate direct de afecÈ›iunea preexistentÄƒ. De exemplu, o poliÈ›Äƒ poate sÄƒ nu acopere decesul rezultat dintr-o complicaÈ›ie a unei afecÈ›iuni cardiace dacÄƒ aceasta a fost diagnosticatÄƒ Ã®nainte de emiterea poliÈ›ei.',
-                '<strong>Acoperire limitatÄƒ</strong>: Uneori, acoperirea poate fi parÈ›ialÄƒ sau limitatÄƒ pentru o anumitÄƒ perioadÄƒ (de exemplu, pentru primii doi ani de la Ã®ncheierea poliÈ›ei).'
+                '<strong>Excluderi specifice</strong>: Unele polițe pot include excluderi legate direct de afecțiunea preexistentă. De exemplu, o poliță poate să nu acopere decesul rezultat dintr-o complicație a unei afecțiuni cardiace dacă aceasta a fost diagnosticată înainte de emiterea poliței.',
+                '<strong>Acoperire limitată</strong>: Uneori, acoperirea poate fi parțială sau limitată pentru o anumită perioadă (de exemplu, pentru primii doi ani de la încheierea poliței).'
               ]
             }
           ]
         },
         {
-          heading: '3. Refuzul asigurÄƒrii',
+          heading: '3. Refuzul asigurării',
           lists: [
             {
               items: [
-                '<strong>Riscuri majore</strong>: ÃŽn cazurile Ã®n care afecÈ›iunea preexistentÄƒ este consideratÄƒ prea riscantÄƒ, asiguratorii pot refuza sÄƒ emitÄƒ o poliÈ›Äƒ. Acest lucru se poate Ã®ntÃ¢mpla Ã®n cazul unor boli grave, cum ar fi cancerul activ sau insuficienÈ›a cardiacÄƒ severÄƒ.',
-                '<strong>Evaluare caz cu caz</strong>: Fiecare caz este evaluat individual, iar criteriile pot varia Ã®ntre asiguratori.'
+                '<strong>Riscuri majore</strong>: În cazurile în care afecțiunea preexistentă este considerată prea riscantă, asiguratorii pot refuza să emită o poliță. Acest lucru se poate întâmpla în cazul unor boli grave, cum ar fi cancerul activ sau insuficiența cardiacă severă.',
+                '<strong>Evaluare caz cu caz</strong>: Fiecare caz este evaluat individual, iar criteriile pot varia între asiguratori.'
               ]
             }
           ]
         }
       ],
       additional_content:
-        '<strong>Factori suplimentari care influenÈ›eazÄƒ:</strong>',
+        '<strong>Factori suplimentari care influențează:</strong>',
       lists_additional: [
         {
           items: [
-            '<strong>Tratament È™i management</strong>: Persoanele care urmeazÄƒ un tratament corespunzÄƒtor È™i demonstreazÄƒ un control bun al afecÈ›iunii sunt adesea evaluate mai pozitiv decÃ¢t cele care nu urmeazÄƒ tratament sau au complicaÈ›ii frecvente.',
-            '<strong>Stabilitatea sÄƒnÄƒtÄƒÈ›ii</strong>: Un istoric de cÃ¢È›iva ani de stabilitate a stÄƒrii de sÄƒnÄƒtate fÄƒrÄƒ complicaÈ›ii majore poate fi un avantaj Ã®n evaluarea eligibilitÄƒÈ›ii pentru o poliÈ›Äƒ de viaÈ›Äƒ.'
+            '<strong>Tratament și management</strong>: Persoanele care urmează un tratament corespunzător și demonstrează un control bun al afecțiunii sunt adesea evaluate mai pozitiv decât cele care nu urmează tratament sau au complicații frecvente.',
+            '<strong>Stabilitatea sănătății</strong>: Un istoric de câțiva ani de stabilitate a stării de sănătate fără complicații majore poate fi un avantaj în evaluarea eligibilității pentru o poliță de viață.'
           ]
         }
       ]
@@ -134,16 +134,16 @@ const articleData: BlogArticleData = {
     {
       id: 'optiuni-pentru-obtinerea-unei-polite-de-viata',
       heading:
-        'OpÈ›iuni pentru obÈ›inerea unei poliÈ›e de viaÈ›Äƒ cu afecÈ›iuni preexistente',
+        'Opțiuni pentru obținerea unei polițe de viață cu afecțiuni preexistente',
       content:
-        'DeÈ™i obÈ›inerea unei asigurÄƒri de viaÈ›Äƒ poate fi mai complicatÄƒ pentru persoanele cu afecÈ›iuni preexistente, existÄƒ cÃ¢teva opÈ›iuni disponibile:',
+        'Deși obținerea unei asigurări de viață poate fi mai complicată pentru persoanele cu afecțiuni preexistente, există câteva opțiuni disponibile:',
       lists: [
         {
           items: [
-            '<strong>PoliÈ›e de asigurare cu acoperire limitatÄƒ</strong>: Acestea oferÄƒ protecÈ›ie parÈ›ialÄƒ È™i pot exclude anumite riscuri legate de afecÈ›iunea preexistentÄƒ. De exemplu, o poliÈ›Äƒ ar putea acoperi decesul din alte cauze decÃ¢t cele legate de afecÈ›iunea respectivÄƒ.',
-            '<strong>PoliÈ›e de asigurare fÄƒrÄƒ evaluare medicalÄƒ</strong>: Aceste poliÈ›e nu necesitÄƒ o evaluare medicalÄƒ detaliatÄƒ È™i sunt mai uÈ™or de obÈ›inut, dar vin cu prime mai mari È™i acoperire limitatÄƒ.',
-            '<strong>AsigurÄƒri de grup oferite de angajatori</strong>: Unele companii oferÄƒ asigurÄƒri de viaÈ›Äƒ pentru angajaÈ›i, fÄƒrÄƒ evaluare medicalÄƒ. Acestea pot fi o soluÈ›ie bunÄƒ pentru cei cu afecÈ›iuni preexistente.',
-            '<strong>AsigurÄƒri specializate</strong>: AnumiÈ›i asiguratori oferÄƒ poliÈ›e personalizate pentru persoanele cu afecÈ›iuni specifice, oferind soluÈ›ii adaptate nevoilor acestora.'
+            '<strong>Polițe de asigurare cu acoperire limitată</strong>: Acestea oferă protecție parțială și pot exclude anumite riscuri legate de afecțiunea preexistentă. De exemplu, o poliță ar putea acoperi decesul din alte cauze decât cele legate de afecțiunea respectivă.',
+            '<strong>Polițe de asigurare fără evaluare medicală</strong>: Aceste polițe nu necesită o evaluare medicală detaliată și sunt mai ușor de obținut, dar vin cu prime mai mari și acoperire limitată.',
+            '<strong>Asigurări de grup oferite de angajatori</strong>: Unele companii oferă asigurări de viață pentru angajați, fără evaluare medicală. Acestea pot fi o soluție bună pentru cei cu afecțiuni preexistente.',
+            '<strong>Asigurări specializate</strong>: Anumiți asiguratori oferă polițe personalizate pentru persoanele cu afecțiuni specifice, oferind soluții adaptate nevoilor acestora.'
           ]
         }
       ],
@@ -154,50 +154,50 @@ const articleData: BlogArticleData = {
     },
     {
       id: 'cum-functioneaza-procesul-de-evaluare-medicala',
-      heading: 'Cum funcÈ›ioneazÄƒ procesul de evaluare medicalÄƒ?',
+      heading: 'Cum funcționează procesul de evaluare medicală?',
       content:
-        'Procesul de evaluare medicalÄƒ este un pas esenÈ›ial Ã®n obÈ›inerea unei poliÈ›e de asigurare de viaÈ›Äƒ È™i poate varia Ã®n funcÈ›ie de tipul poliÈ›ei È™i de asigurator.|<strong>Ce implicÄƒ evaluarea medicalÄƒ?</strong>',
+        'Procesul de evaluare medicală este un pas esențial în obținerea unei polițe de asigurare de viață și poate varia în funcție de tipul poliței și de asigurator.|<strong>Ce implică evaluarea medicală?</strong>',
       lists: [
         {
           items: [
-            '<strong>ExaminÄƒri medicale de bazÄƒ</strong>: Verificarea tensiunii arteriale, greutÄƒÈ›ii, Ã®nÄƒlÈ›imii È™i testarea sÃ¢ngelui È™i urinei.',
-            '<strong>Istoricul medical detaliat</strong>: O revizuire a istoricului medical personal È™i familial, inclusiv tratamentele anterioare È™i condiÈ›iile actuale.',
-            '<strong>Rapoarte medicale suplimentare</strong>: Asiguratorul poate solicita rapoarte de la medicii curanÈ›i ai solicitantului, Ã®n special dacÄƒ existÄƒ afecÈ›iuni mai complexe.'
+            '<strong>Examinări medicale de bază</strong>: Verificarea tensiunii arteriale, greutății, înălțimii și testarea sângelui și urinei.',
+            '<strong>Istoricul medical detaliat</strong>: O revizuire a istoricului medical personal și familial, inclusiv tratamentele anterioare și condițiile actuale.',
+            '<strong>Rapoarte medicale suplimentare</strong>: Asiguratorul poate solicita rapoarte de la medicii curanți ai solicitantului, în special dacă există afecțiuni mai complexe.'
           ]
         }
       ],
       additional_content:
-        '<strong>Evaluarea È™i decizia finalÄƒ</strong>: DupÄƒ analiza rezultatelor evaluÄƒrii medicale, asiguratorul va determina riscul asociat cu emiterea poliÈ›ei È™i va decide asupra primei È™i a condiÈ›iilor de acoperire.'
+        '<strong>Evaluarea și decizia finală</strong>: După analiza rezultatelor evaluării medicale, asiguratorul va determina riscul asociat cu emiterea poliței și va decide asupra primei și a condițiilor de acoperire.'
     },
     {
       id: 'factori-care-influenteaza-costul-politei',
       heading:
-        'Factori care influenÈ›eazÄƒ costul poliÈ›ei pentru persoanele cu afecÈ›iuni preexistente',
+        'Factori care influențează costul poliței pentru persoanele cu afecțiuni preexistente',
       content:
-        'Costul unei poliÈ›e de asigurare de viaÈ›Äƒ poate varia semnificativ pentru persoanele cu afecÈ›iuni preexistente. IatÄƒ cÃ¢È›iva dintre factorii principali care influenÈ›eazÄƒ preÈ›ul:',
+        'Costul unei polițe de asigurare de viață poate varia semnificativ pentru persoanele cu afecțiuni preexistente. Iată câțiva dintre factorii principali care influențează prețul:',
       lists: [
         {
           ordered: true,
           items: [
-            '<strong>Tipul È™i severitatea afecÈ›iunii:</strong> AfecÈ›iunile minore, cum ar fi alergiile sezoniere, pot avea un impact minim asupra costului. ÃŽn schimb, afecÈ›iunile cronice sau severe, precum diabetul necontrolat sau problemele cardiace, pot duce la prime semnificativ mai mari.',
-            '<strong>Managementul afecÈ›iunii:</strong> Persoanele care Ã®È™i gestioneazÄƒ bine afecÈ›iunea prin tratament eficient È™i stabil pot obÈ›ine condiÈ›ii mai avantajoase. Lipsa tratamentului sau complicaÈ›iile pot duce la prime mai mari sau la refuzul poliÈ›ei.',
-            '<strong>VÃ¢rsta È™i stilul de viaÈ›Äƒ:</strong> VÃ¢rsta tÃ¢nÄƒrÄƒ È™i un stil de viaÈ›Äƒ sÄƒnÄƒtos pot compensa parÈ›ial riscurile asociate unei afecÈ›iuni preexistente. Fumatul sau alte obiceiuri nesÄƒnÄƒtoase pot creÈ™te semnificativ costul asigurÄƒrii.'
+            '<strong>Tipul și severitatea afecțiunii:</strong> Afecțiunile minore, cum ar fi alergiile sezoniere, pot avea un impact minim asupra costului. În schimb, afecțiunile cronice sau severe, precum diabetul necontrolat sau problemele cardiace, pot duce la prime semnificativ mai mari.',
+            '<strong>Managementul afecțiunii:</strong> Persoanele care își gestionează bine afecțiunea prin tratament eficient și stabil pot obține condiții mai avantajoase. Lipsa tratamentului sau complicațiile pot duce la prime mai mari sau la refuzul poliței.',
+            '<strong>Vârsta și stilul de viață:</strong> Vârsta tânără și un stil de viață sănătos pot compensa parțial riscurile asociate unei afecțiuni preexistente. Fumatul sau alte obiceiuri nesănătoase pot crește semnificativ costul asigurării.'
           ]
         }
       ]
     },
     {
       id: 'sfaturi-pentru-a-obtine-o-polita-de-asigurare',
-      heading: 'Sfaturi pentru a obÈ›ine o poliÈ›Äƒ de asigurare avantajoasÄƒ',
+      heading: 'Sfaturi pentru a obține o poliță de asigurare avantajoasă',
       content:
-        'Pentru a maximiza È™ansele de a obÈ›ine o poliÈ›Äƒ de asigurare de viaÈ›Äƒ bunÄƒ, persoanele cu afecÈ›iuni preexistente ar trebui sÄƒ ia Ã®n considerare urmÄƒtoarele sfaturi:',
+        'Pentru a maximiza șansele de a obține o poliță de asigurare de viață bună, persoanele cu afecțiuni preexistente ar trebui să ia în considerare următoarele sfaturi:',
       lists: [
         {
           items: [
-            '<strong>ConsultÄƒ mai mulÈ›i asiguratori</strong>: Fiecare asigurator poate avea criterii diferite pentru evaluarea riscurilor, aÈ™a cÄƒ este bine sÄƒ compari mai multe oferte.',
-            '<strong>PregÄƒteÈ™te-te cu informaÈ›ii medicale clare</strong>: AsigurÄƒ-te cÄƒ ai la dispoziÈ›ie toate documentele medicale relevante, pentru a prezenta o imagine clarÄƒ a stÄƒrii tale de sÄƒnÄƒtate.',
-            '<strong>Alege o poliÈ›Äƒ adaptatÄƒ nevoilor tale</strong>: Poate fi util sÄƒ consulÈ›i un broker de asigurÄƒri care sÄƒ te ajute sÄƒ gÄƒseÈ™ti o poliÈ›Äƒ care sÄƒ corespundÄƒ cel mai bine situaÈ›iei tale medicale È™i financiare.',
-            '<strong>ÃŽmbunÄƒtÄƒÈ›eÈ™te-È›i stilul de viaÈ›Äƒ</strong>: Adoptarea unui stil de viaÈ›Äƒ mai sÄƒnÄƒtos poate reduce primele asigurÄƒrii È™i poate demonstra cÄƒ eÈ™ti capabil sÄƒ gestionezi eficient afecÈ›iunea.'
+            '<strong>Consultă mai mulți asiguratori</strong>: Fiecare asigurator poate avea criterii diferite pentru evaluarea riscurilor, așa că este bine să compari mai multe oferte.',
+            '<strong>Pregătește-te cu informații medicale clare</strong>: Asigură-te că ai la dispoziție toate documentele medicale relevante, pentru a prezenta o imagine clară a stării tale de sănătate.',
+            '<strong>Alege o poliță adaptată nevoilor tale</strong>: Poate fi util să consulți un broker de asigurări care să te ajute să găsești o poliță care să corespundă cel mai bine situației tale medicale și financiare.',
+            '<strong>Îmbunătățește-ți stilul de viață</strong>: Adoptarea unui stil de viață mai sănătos poate reduce primele asigurării și poate demonstra că ești capabil să gestionezi eficient afecțiunea.'
           ]
         }
       ]
@@ -205,9 +205,9 @@ const articleData: BlogArticleData = {
     {
       id: 'intrebari-frecvente',
       heading:
-        'ÃŽntrebÄƒri frecvente despre asigurarea de viaÈ›Äƒ È™i afecÈ›iunile preexistente',
+        'Întrebări frecvente despre asigurarea de viață și afecțiunile preexistente',
       content:
-        '<strong>Pot obÈ›ine o poliÈ›Äƒ de asigurare de viaÈ›Äƒ dacÄƒ am o afecÈ›iune gravÄƒ?</strong> Da, dar poate fi necesar sÄƒ plÄƒteÈ™ti o primÄƒ mai mare sau sÄƒ accepÈ›i acoperiri limitate.|<strong>Este posibil sÄƒ fiu refuzat de cÄƒtre un asigurator din cauza unei afecÈ›iuni preexistente?</strong> Da, este posibil, dar existÄƒ soluÈ›ii alternative, cum ar fi poliÈ›ele fÄƒrÄƒ evaluare medicalÄƒ sau cele de grup.|<strong>Pot adÄƒuga clauze suplimentare la poliÈ›Äƒ pentru a extinde acoperirea?</strong> Da, unele poliÈ›e permit adÄƒugarea de clauze suplimentare, dar aceste opÈ›iuni pot fi limitate Ã®n funcÈ›ie de afecÈ›iunea preexistentÄƒ.|<strong>CÃ¢t de des ar trebui sÄƒ Ã®mi reevaluez poliÈ›a?</strong> Este bine sÄƒ Ã®È›i reevaluezi poliÈ›a periodic, mai ales dacÄƒ starea de sÄƒnÄƒtate se Ã®mbunÄƒtÄƒÈ›eÈ™te sau dacÄƒ apar schimbÄƒri semnificative Ã®n situaÈ›ia ta financiarÄƒ.|ObÈ›inerea unei poliÈ›e de <a href="https://www.asigurari.ro/asigurare/life"><strong>asigurare de viaÈ›Äƒ</strong></a> Ã®n cazul unei afecÈ›iuni preexistente poate pÄƒrea un proces complicat, dar cu o abordare informatÄƒ È™i proactivÄƒ, este posibil sÄƒ gÄƒseÈ™ti o soluÈ›ie care sÄƒ rÄƒspundÄƒ nevoilor tale È™i sÄƒ Ã®È›i protejeze familia. AsigurÄƒrile de viaÈ›Äƒ oferÄƒ siguranÈ›Äƒ financiarÄƒ È™i liniÈ™te sufleteascÄƒ, iar persoanele cu afecÈ›iuni preexistente nu ar trebui sÄƒ fie descurajate de provocÄƒrile iniÈ›iale.|DoreÈ™ti sÄƒ afli mai multe despre cum poÈ›i obÈ›ine o asigurare de viaÈ›Äƒ adaptatÄƒ nevoilor tale? ViziteazÄƒ <a href="https://www.asigurari.ro"><strong>asigurari.ro</strong></a> pentru a explora opÈ›iunile disponibile. ProtejeazÄƒ-È›i viitorul È™i pe cel al familiei tale, fÄƒrÄƒ compromisuri.'
+        '<strong>Pot obține o poliță de asigurare de viață dacă am o afecțiune gravă?</strong> Da, dar poate fi necesar să plătești o primă mai mare sau să accepți acoperiri limitate.|<strong>Este posibil să fiu refuzat de către un asigurator din cauza unei afecțiuni preexistente?</strong> Da, este posibil, dar există soluții alternative, cum ar fi polițele fără evaluare medicală sau cele de grup.|<strong>Pot adăuga clauze suplimentare la poliță pentru a extinde acoperirea?</strong> Da, unele polițe permit adăugarea de clauze suplimentare, dar aceste opțiuni pot fi limitate în funcție de afecțiunea preexistentă.|<strong>Cât de des ar trebui să îmi reevaluez polița?</strong> Este bine să îți reevaluezi polița periodic, mai ales dacă starea de sănătate se îmbunătățește sau dacă apar schimbări semnificative în situația ta financiară.|Obținerea unei polițe de <a href="https://www.asigurari.ro/asigurare/life"><strong>asigurare de viață</strong></a> în cazul unei afecțiuni preexistente poate părea un proces complicat, dar cu o abordare informată și proactivă, este posibil să găsești o soluție care să răspundă nevoilor tale și să îți protejeze familia. Asigurările de viață oferă siguranță financiară și liniște sufletească, iar persoanele cu afecțiuni preexistente nu ar trebui să fie descurajate de provocările inițiale.|Dorești să afli mai multe despre cum poți obține o asigurare de viață adaptată nevoilor tale? Vizitează <a href="https://www.asigurari.ro"><strong>asigurari.ro</strong></a> pentru a explora opțiunile disponibile. Protejează-ți viitorul și pe cel al familiei tale, fără compromisuri.'
     }
   ],
   conclusion: ''

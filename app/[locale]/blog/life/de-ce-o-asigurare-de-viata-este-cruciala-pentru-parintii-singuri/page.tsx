@@ -6,54 +6,54 @@ export const metadata: Metadata = {
   title:
     'De ce o asigurare de viata este cruciala pentru parintii singuri | asigurari.ro',
   description:
-    'Esti parinte singur? âž¤ Descopera de ce o asigurare de viata este esentiala pentru tine si cum te ajuta sa le asiguri un viitor stabil micutilor'
+    'Esti parinte singur? ➤ Descopera de ce o asigurare de viata este esentiala pentru tine si cum te ajuta sa le asiguri un viitor stabil micutilor'
 }
 
 const articleData: BlogArticleData = {
   title:
-    'De ce o asigurare de viaÈ›Äƒ este crucialÄƒ pentru pÄƒrinÈ›ii singuri',
+    'De ce o asigurare de viață este crucială pentru părinții singuri',
   image: '/images/asigurari/blog/life/mama-singura.webp',
   image_alt: 'Mama singura care se joaca cu copilul',
   intro_text:
-    'A fi pÄƒrinte singur este o provocare constantÄƒ, atÃ¢t pe plan emoÈ›ional, cÃ¢t È™i financiar. Pe lÃ¢ngÄƒ Ã®ndeplinirea rolului de Ã®ngrijitor principal, pÄƒrinÈ›ii singuri sunt responsabili È™i pentru asigurarea stabilitÄƒÈ›ii economice a familiei lor. AceastÄƒ responsabilitate creÈ™te riscurile È™i vulnerabilitÄƒÈ›ile asociate evenimentelor neprevÄƒzute, cum ar fi o pierdere subitÄƒ a venitului sau, Ã®n cel mai tragic caz, pierderea vieÈ›ii.|O asigurare de viaÈ›Äƒ reprezintÄƒ o plasÄƒ de siguranÈ›Äƒ esenÈ›ialÄƒ, care garanteazÄƒ cÄƒ viitorul copiilor este protejat chiar È™i Ã®n absenÈ›a pÄƒrintelui. Prin acest articol, vom explora importanÈ›a unei asigurÄƒri de viaÈ›Äƒ pentru pÄƒrinÈ›ii singuri, beneficiile acesteia È™i sfaturile necesare pentru a face alegerea potrivitÄƒ.',
+    'A fi părinte singur este o provocare constantă, atât pe plan emoțional, cât și financiar. Pe lângă îndeplinirea rolului de îngrijitor principal, părinții singuri sunt responsabili și pentru asigurarea stabilității economice a familiei lor. Această responsabilitate crește riscurile și vulnerabilitățile asociate evenimentelor neprevăzute, cum ar fi o pierdere subită a venitului sau, în cel mai tragic caz, pierderea vieții.|O asigurare de viață reprezintă o plasă de siguranță esențială, care garantează că viitorul copiilor este protejat chiar și în absența părintelui. Prin acest articol, vom explora importanța unei asigurări de viață pentru părinții singuri, beneficiile acesteia și sfaturile necesare pentru a face alegerea potrivită.',
   toc_items: [
     {
       href: '#parinte-singur-in-context-financiar',
-      title: 'Ce Ã®nseamnÄƒ sÄƒ fii pÄƒrinte singur Ã®n context financiar'
+      title: 'Ce înseamnă să fii părinte singur în context financiar'
     },
     {
       href: '#importanta-asigurarii',
       title:
-        'De ce o asigurare de viaÈ›Äƒ este esenÈ›ialÄƒ pentru pÄƒrinÈ›ii singuri'
+        'De ce o asigurare de viață este esențială pentru părinții singuri'
     },
     {
       href: '#beneficii-copii',
       title:
-        'Beneficiile oferite de o asigurare de viaÈ›Äƒ pentru copiii unui pÄƒrinte singur'
+        'Beneficiile oferite de o asigurare de viață pentru copiii unui părinte singur'
     },
-    { href: '#mituri-asigurare', title: 'Mituri despre asigurarea de viaÈ›Äƒ' },
+    { href: '#mituri-asigurare', title: 'Mituri despre asigurarea de viață' },
     {
       href: '#alegere-polita',
       title:
-        'PaÈ™i practici pentru alegerea unei poliÈ›e de asigurare de viaÈ›Äƒ'
+        'Pași practici pentru alegerea unei polițe de asigurare de viață'
     }
   ],
   content_sections: [
     {
       id: 'parinte-singur-in-context-financiar',
-      heading: 'Ce Ã®nseamnÄƒ sÄƒ fii pÄƒrinte singur Ã®n context financiar',
+      heading: 'Ce înseamnă să fii părinte singur în context financiar',
       content:
-        'A fi pÄƒrinte singur nu Ã®nseamnÄƒ doar sÄƒ fii responsabil de creÈ™terea È™i educaÈ›ia copilului tÄƒu, ci È™i sÄƒ asiguri toate resursele financiare necesare unei vieÈ›i stabile È™i sigure. Acest statut vine cu o gamÄƒ variatÄƒ de provocÄƒri, iar presiunea economicÄƒ este una dintre cele mai mari.',
+        'A fi părinte singur nu înseamnă doar să fii responsabil de creșterea și educația copilului tău, ci și să asiguri toate resursele financiare necesare unei vieți stabile și sigure. Acest statut vine cu o gamă variată de provocări, iar presiunea economică este una dintre cele mai mari.',
       subsections: [
         {
-          subheading: 'ProvocÄƒrile financiare ale pÄƒrinÈ›ilor singuri',
+          subheading: 'Provocările financiare ale părinților singuri',
           lists: [
             {
               items: [
-                '<strong>Lipsa unui al doilea venit:</strong> CÃ¢nd existÄƒ doi pÄƒrinÈ›i, veniturile sunt adesea combinate, iar cheltuielile sunt mai uÈ™or de gestionat. Pentru pÄƒrinÈ›ii singuri, Ã®ntreaga povarÄƒ financiarÄƒ cade pe umerii lor. Orice Ã®ntrerupere a venitului â€“ fie din cauza pierderii locului de muncÄƒ, fie din cauza unor probleme de sÄƒnÄƒtate â€“ poate crea o instabilitate economicÄƒ semnificativÄƒ.',
-                '<strong>Costurile asociate creÈ™terii unui copil:</strong> CreÈ™terea unui copil implicÄƒ o mulÈ›ime de cheltuieli, de la haine È™i alimente, la activitÄƒÈ›i extracurriculare, taxe È™colare È™i cheltuieli medicale. Pe mÄƒsurÄƒ ce copilul creÈ™te, aceste costuri devin din ce Ã®n ce mai mari, iar pÄƒrintele singur trebuie sÄƒ le gestioneze singur.',
-                '<strong>Planificarea pe termen lung:</strong> PÄƒrinÈ›ii singuri trebuie sÄƒ ia Ã®n considerare nu doar nevoile imediate ale copilului, ci È™i planificarea pe termen lung. EducaÈ›ia, locuinÈ›a È™i un eventual fond de urgenÈ›Äƒ sunt prioritÄƒÈ›i care necesitÄƒ un management financiar disciplinat È™i resurse consistente.',
-                '<strong>Lipsa unui sistem de sprijin:</strong> ÃŽn familiile cu doi pÄƒrinÈ›i, partenerii pot prelua responsabilitÄƒÈ›ile financiare sau administrative Ã®n caz de urgenÈ›Äƒ. PÄƒrinÈ›ii singuri nu au Ã®ntotdeauna aceastÄƒ opÈ›iune, ceea ce creÈ™te vulnerabilitatea familiei lor.'
+                '<strong>Lipsa unui al doilea venit:</strong> Când există doi părinți, veniturile sunt adesea combinate, iar cheltuielile sunt mai ușor de gestionat. Pentru părinții singuri, întreaga povară financiară cade pe umerii lor. Orice întrerupere a venitului – fie din cauza pierderii locului de muncă, fie din cauza unor probleme de sănătate – poate crea o instabilitate economică semnificativă.',
+                '<strong>Costurile asociate creșterii unui copil:</strong> Creșterea unui copil implică o mulțime de cheltuieli, de la haine și alimente, la activități extracurriculare, taxe școlare și cheltuieli medicale. Pe măsură ce copilul crește, aceste costuri devin din ce în ce mai mari, iar părintele singur trebuie să le gestioneze singur.',
+                '<strong>Planificarea pe termen lung:</strong> Părinții singuri trebuie să ia în considerare nu doar nevoile imediate ale copilului, ci și planificarea pe termen lung. Educația, locuința și un eventual fond de urgență sunt priorități care necesită un management financiar disciplinat și resurse consistente.',
+                '<strong>Lipsa unui sistem de sprijin:</strong> În familiile cu doi părinți, partenerii pot prelua responsabilitățile financiare sau administrative în caz de urgență. Părinții singuri nu au întotdeauna această opțiune, ceea ce crește vulnerabilitatea familiei lor.'
               ]
             }
           ]
@@ -62,38 +62,38 @@ const articleData: BlogArticleData = {
       lists_additional: [
         {
           items: [
-            '<strong>Cheltuieli mai mari pe cap de locuitor</strong>: Studiile aratÄƒ cÄƒ pÄƒrinÈ›ii singuri au, Ã®n medie, cheltuieli cu 20-30% mai mari comparativ cu familiile tradiÈ›ionale, raportat la venitul lunar.',
-            '<strong>Lipsa unui fond de urgenÈ›Äƒ:</strong> Aproximativ 60% dintre pÄƒrinÈ›ii singuri nu deÈ›in economii care sÄƒ acopere mai mult de trei luni de cheltuieli esenÈ›iale.'
+            '<strong>Cheltuieli mai mari pe cap de locuitor</strong>: Studiile arată că părinții singuri au, în medie, cheltuieli cu 20-30% mai mari comparativ cu familiile tradiționale, raportat la venitul lunar.',
+            '<strong>Lipsa unui fond de urgență:</strong> Aproximativ 60% dintre părinții singuri nu dețin economii care să acopere mai mult de trei luni de cheltuieli esențiale.'
           ]
         }
       ],
       additional_content:
-        'AceastÄƒ situaÈ›ie face ca pÄƒrinÈ›ii singuri sÄƒ fie extrem de vulnerabili la evenimente neprevÄƒzute, ceea ce subliniazÄƒ importanÈ›a unor mÄƒsuri de protecÈ›ie financiare, precum asigurarea de viaÈ›Äƒ.'
+        'Această situație face ca părinții singuri să fie extrem de vulnerabili la evenimente neprevăzute, ceea ce subliniază importanța unor măsuri de protecție financiare, precum asigurarea de viață.'
     },
     {
       id: 'importanta-asigurarii',
       heading:
-        'De ce o asigurare de viaÈ›Äƒ este esenÈ›ialÄƒ pentru pÄƒrinÈ›ii singuri',
+        'De ce o asigurare de viață este esențială pentru părinții singuri',
       content:
-        'Pentru pÄƒrinÈ›ii singuri, o asigurare de viaÈ›Äƒ este mai mult decÃ¢t o opÈ›iune â€“ este o necesitate absolutÄƒ. Fiind singurul furnizor financiar pentru copil, pierderea pÄƒrintelui poate lÄƒsa copilul fÄƒrÄƒ resursele necesare pentru a trÄƒi o viaÈ›Äƒ stabilÄƒ. O asigurare de viaÈ›Äƒ oferÄƒ siguranÈ›a cÄƒ, indiferent de ceea ce se Ã®ntÃ¢mplÄƒ, copilul va avea acces la sprijin financiar pentru a-È™i continua educaÈ›ia, a-È™i menÈ›ine locuinÈ›a È™i a-È™i satisface nevoile esenÈ›iale.|<strong>Cum protejeazÄƒ o asigurare de viaÈ›Äƒ pÄƒrinÈ›ii singuri È™i copiii lor?</strong>',
+        'Pentru părinții singuri, o asigurare de viață este mai mult decât o opțiune – este o necesitate absolută. Fiind singurul furnizor financiar pentru copil, pierderea părintelui poate lăsa copilul fără resursele necesare pentru a trăi o viață stabilă. O asigurare de viață oferă siguranța că, indiferent de ceea ce se întâmplă, copilul va avea acces la sprijin financiar pentru a-și continua educația, a-și menține locuința și a-și satisface nevoile esențiale.|<strong>Cum protejează o asigurare de viață părinții singuri și copiii lor?</strong>',
       lists: [
         {
           items: [
-            '<strong>Asigurarea stabilitÄƒÈ›ii financiare a copilului:</strong> O poliÈ›Äƒ de asigurare de viaÈ›Äƒ creeazÄƒ un fond garantat pentru copil Ã®n cazul unui eveniment tragic. AceÈ™ti bani pot fi utilizaÈ›i pentru cheltuieli precum educaÈ›ia, locuinÈ›a, hrana sau alte nevoi de bazÄƒ. Acest lucru eliminÄƒ riscul ca micuÈ›ul sÄƒ se confrunte cu dificultÄƒÈ›i financiare semnificative.',
-            '<strong>Acoperirea datoriilor rÄƒmase:</strong> DacÄƒ pÄƒrintele singur are Ã®mprumuturi, cum ar fi un credit ipotecar sau alte datorii personale, suma asiguratÄƒ poate fi folositÄƒ pentru a le achita. ÃŽn acest fel, copilul nu moÈ™teneÈ™te aceste obligaÈ›ii financiare È™i poate continua sÄƒ trÄƒiascÄƒ Ã®ntr-un mediu stabil.',
-            '<strong>Stabilitatea emoÈ›ionalÄƒ a copilului:</strong> Pe lÃ¢ngÄƒ impactul financiar, pierderea unui pÄƒrinte are È™i un efect emoÈ›ional profund asupra copilului. O asigurare de viaÈ›Äƒ poate contribui la menÈ›inerea stabilitÄƒÈ›ii Ã®n viaÈ›a copilului, asigurÃ¢ndu-se cÄƒ acesta nu trebuie sÄƒ facÄƒ faÈ›Äƒ unor schimbÄƒri drastice, precum mutarea din casÄƒ sau renunÈ›area la educaÈ›ie.',
-            '<strong>IndependenÈ›a financiarÄƒ:</strong> Chiar dacÄƒ rudele sunt dispuse sÄƒ oferÄƒ sprijin financiar, o poliÈ›Äƒ de asigurare garanteazÄƒ independenÈ›a copilului, fÄƒrÄƒ a pune presiune pe ceilalÈ›i membri ai familiei.'
+            '<strong>Asigurarea stabilității financiare a copilului:</strong> O poliță de asigurare de viață creează un fond garantat pentru copil în cazul unui eveniment tragic. Acești bani pot fi utilizați pentru cheltuieli precum educația, locuința, hrana sau alte nevoi de bază. Acest lucru elimină riscul ca micuțul să se confrunte cu dificultăți financiare semnificative.',
+            '<strong>Acoperirea datoriilor rămase:</strong> Dacă părintele singur are împrumuturi, cum ar fi un credit ipotecar sau alte datorii personale, suma asigurată poate fi folosită pentru a le achita. În acest fel, copilul nu moștenește aceste obligații financiare și poate continua să trăiască într-un mediu stabil.',
+            '<strong>Stabilitatea emoțională a copilului:</strong> Pe lângă impactul financiar, pierderea unui părinte are și un efect emoțional profund asupra copilului. O asigurare de viață poate contribui la menținerea stabilității în viața copilului, asigurându-se că acesta nu trebuie să facă față unor schimbări drastice, precum mutarea din casă sau renunțarea la educație.',
+            '<strong>Independența financiară:</strong> Chiar dacă rudele sunt dispuse să oferă sprijin financiar, o poliță de asigurare garantează independența copilului, fără a pune presiune pe ceilalți membri ai familiei.'
           ]
         }
       ],
       additional_content:
-        '<strong>De ce pÄƒrinÈ›ii singuri nu Ã®È™i permit sÄƒ ignore aceastÄƒ mÄƒsurÄƒ de protecÈ›ie?</strong>',
+        '<strong>De ce părinții singuri nu își permit să ignore această măsură de protecție?</strong>',
       lists_additional: [
         {
           items: [
-            'Copilul nu are un alt sprijin financiar principal Ã®n cazul pierderii pÄƒrintelui.',
-            'FÄƒrÄƒ o asigurare, copilul poate fi expus la instabilitate financiarÄƒ, pierderea locuinÈ›ei sau lipsa accesului la educaÈ›ie.',
-            'O poliÈ›Äƒ de asigurare permite pÄƒrinÈ›ilor sÄƒ se concentreze pe prezent, È™tiind cÄƒ viitorul copilului este protejat.'
+            'Copilul nu are un alt sprijin financiar principal în cazul pierderii părintelui.',
+            'Fără o asigurare, copilul poate fi expus la instabilitate financiară, pierderea locuinței sau lipsa accesului la educație.',
+            'O poliță de asigurare permite părinților să se concentreze pe prezent, știind că viitorul copilului este protejat.'
           ]
         }
       ]
@@ -101,17 +101,17 @@ const articleData: BlogArticleData = {
     {
       id: 'beneficii-copii',
       heading:
-        'Beneficiile oferite de o asigurare de viaÈ›Äƒ pentru copiii unui pÄƒrinte singur',
+        'Beneficiile oferite de o asigurare de viață pentru copiii unui părinte singur',
       content:
-        'Atunci cÃ¢nd un pÄƒrinte singur Ã®ncheie o asigurare de viaÈ›Äƒ, copilul beneficiazÄƒ direct de o protecÈ›ie financiarÄƒ care poate schimba dramatic cursul vieÈ›ii sale Ã®n caz de evenimente neprevÄƒzute. Mai mult decÃ¢t un simplu fond, asigurarea oferÄƒ stabilitate È™i oportunitÄƒÈ›i care altfel ar putea fi pierdute. Aceste beneficii nu sunt doar imediate, ci se Ã®ntind pe termen lung, asigurÃ¢nd o continuitate a stilului de viaÈ›Äƒ È™i acces la resurse esenÈ›iale.|<strong>Cum sprijinÄƒ o asigurare de viaÈ›Äƒ copiii unui pÄƒrinte singur?</strong>',
+        'Atunci când un părinte singur încheie o asigurare de viață, copilul beneficiază direct de o protecție financiară care poate schimba dramatic cursul vieții sale în caz de evenimente neprevăzute. Mai mult decât un simplu fond, asigurarea oferă stabilitate și oportunități care altfel ar putea fi pierdute. Aceste beneficii nu sunt doar imediate, ci se întind pe termen lung, asigurând o continuitate a stilului de viață și acces la resurse esențiale.|<strong>Cum sprijină o asigurare de viață copiii unui părinte singur?</strong>',
       lists: [
         {
           items: [
-            '<strong>EducaÈ›ia copilului:</strong> EducaÈ›ia este una dintre cele mai mari prioritÄƒÈ›i pentru pÄƒrinÈ›i. Fondurile provenite din asigurarea de viaÈ›Äƒ pot fi folosite pentru a acoperi taxele È™colare, manualele, cursurile suplimentare sau chiar studiile universitare. Acest lucru asigurÄƒ copilului accesul la o educaÈ›ie de calitate, indiferent de circumstanÈ›e.',
-            '<strong>Cheltuielile zilnice:</strong> Asigurarea poate acoperi cheltuieli de bazÄƒ precum hrana, Ã®mbrÄƒcÄƒmintea, utilitÄƒÈ›ile È™i transportul. Acest aspect este esenÈ›ial pentru a menÈ›ine copilul Ã®ntr-un mediu stabil È™i confortabil, fÄƒrÄƒ a-l supune stresului financiar.',
-            '<strong>PÄƒstrarea locuinÈ›ei:</strong> Pentru mulÈ›i pÄƒrinÈ›i singuri, locuinÈ›a reprezintÄƒ cea mai mare investiÈ›ie. Fondurile din asigurare pot fi folosite pentru a achita ratele ipotecare rÄƒmase, garantÃ¢nd cÄƒ copilul nu va fi forÈ›at sÄƒ-È™i schimbe domiciliul sau sÄƒ piardÄƒ casa familiei.',
-            '<strong>Un fond de urgenÈ›Äƒ:</strong> ViaÈ›a este imprevizibilÄƒ, iar costurile neaÈ™teptate pot apÄƒrea oricÃ¢nd. Suma asiguratÄƒ poate fi utilizatÄƒ pentru cheltuieli medicale, reparaÈ›ii urgente sau alte situaÈ›ii critice.',
-            '<strong>Sprijin emoÈ›ional prin stabilitate financiarÄƒ:</strong> Pierderea unui pÄƒrinte are un impact emoÈ›ional profund asupra unui copil. O stabilitate financiarÄƒ oferitÄƒ printr-o poliÈ›Äƒ de asigurare poate atenua stresul asociat cu schimbÄƒrile majore È™i permite copilului sÄƒ se concentreze pe vindecare È™i adaptare.'
+            '<strong>Educația copilului:</strong> Educația este una dintre cele mai mari priorități pentru părinți. Fondurile provenite din asigurarea de viață pot fi folosite pentru a acoperi taxele școlare, manualele, cursurile suplimentare sau chiar studiile universitare. Acest lucru asigură copilului accesul la o educație de calitate, indiferent de circumstanțe.',
+            '<strong>Cheltuielile zilnice:</strong> Asigurarea poate acoperi cheltuieli de bază precum hrana, îmbrăcămintea, utilitățile și transportul. Acest aspect este esențial pentru a menține copilul într-un mediu stabil și confortabil, fără a-l supune stresului financiar.',
+            '<strong>Păstrarea locuinței:</strong> Pentru mulți părinți singuri, locuința reprezintă cea mai mare investiție. Fondurile din asigurare pot fi folosite pentru a achita ratele ipotecare rămase, garantând că copilul nu va fi forțat să-și schimbe domiciliul sau să piardă casa familiei.',
+            '<strong>Un fond de urgență:</strong> Viața este imprevizibilă, iar costurile neașteptate pot apărea oricând. Suma asigurată poate fi utilizată pentru cheltuieli medicale, reparații urgente sau alte situații critice.',
+            '<strong>Sprijin emoțional prin stabilitate financiară:</strong> Pierderea unui părinte are un impact emoțional profund asupra unui copil. O stabilitate financiară oferită printr-o poliță de asigurare poate atenua stresul asociat cu schimbările majore și permite copilului să se concentreze pe vindecare și adaptare.'
           ]
         }
       ],
@@ -122,17 +122,17 @@ const articleData: BlogArticleData = {
     },
     {
       id: 'mituri-asigurare',
-      heading: 'Mituri despre asigurarea de viaÈ›Äƒ',
+      heading: 'Mituri despre asigurarea de viață',
       content:
-        'O asigurare de viaÈ›Äƒ este adesea perceputÄƒ ca fiind complicatÄƒ, inaccesibilÄƒ sau inutilÄƒ, mai ales de cÄƒtre pÄƒrinÈ›ii singuri care jongleazÄƒ deja cu responsabilitÄƒÈ›i financiare mari. Aceste percepÈ›ii greÈ™ite pot duce la amÃ¢narea unei decizii importante, punÃ¢nd Ã®n pericol viitorul copilului. Este esenÈ›ial sÄƒ Ã®nÈ›elegem adevÄƒrul din spatele acestor mituri È™i sÄƒ recunoaÈ™tem valoarea realÄƒ a unei asigurÄƒri de viaÈ›Äƒ.|<strong>Mituri comune despre asigurarea de viaÈ›Äƒ:</strong>',
+        'O asigurare de viață este adesea percepută ca fiind complicată, inaccesibilă sau inutilă, mai ales de către părinții singuri care jonglează deja cu responsabilități financiare mari. Aceste percepții greșite pot duce la amânarea unei decizii importante, punând în pericol viitorul copilului. Este esențial să înțelegem adevărul din spatele acestor mituri și să recunoaștem valoarea reală a unei asigurări de viață.|<strong>Mituri comune despre asigurarea de viață:</strong>',
       lists: [
         {
           items: [
-            '<strong>â€žEste prea scumpÄƒ pentru mine.â€:</strong> MulÈ›i pÄƒrinÈ›i singuri evitÄƒ sÄƒ Ã®ncheie o poliÈ›Äƒ, crezÃ¢nd cÄƒ primele de asigurare sunt inaccesibile. ÃŽn realitate, existÄƒ opÈ›iuni flexibile care pot fi adaptate la orice buget. De exemplu, o poliÈ›Äƒ temporarÄƒ poate oferi o acoperire adecvatÄƒ la costuri reduse.',
-            '<strong>â€žNu am nevoie de o asigurare pentru cÄƒ sunt tÃ¢nÄƒr È™i sÄƒnÄƒtos.â€:</strong> SÄƒnÄƒtatea È™i vÃ¢rsta actualÄƒ nu eliminÄƒ riscurile evenimentelor neaÈ™teptate. O poliÈ›Äƒ de asigurare este o mÄƒsurÄƒ preventivÄƒ, menitÄƒ sÄƒ oferÄƒ protecÈ›ie Ã®n cazurile cele mai dificile.',
-            '<strong>â€žCopilul meu va fi sprijinit de rude.â€:</strong> DeÈ™i sprijinul familial este valoros, nu toate rudele au capacitatea financiarÄƒ de a acoperi cheltuielile unui copil pe termen lung. O poliÈ›Äƒ de asigurare oferÄƒ copilului independenÈ›Äƒ financiarÄƒ, reducÃ¢nd povara asupra familiei.',
-            '<strong>â€žEste complicat sÄƒ Ã®nchei o poliÈ›Äƒ.â€:</strong> Procedurile pentru Ã®ncheierea unei poliÈ›e de asigurare sunt simple È™i eficiente. Cu ajutorul unui broker sau consultant de asigurÄƒri, poÈ›i gÄƒsi rapid o soluÈ›ie adaptatÄƒ nevoilor tale.',
-            '<strong>â€žNu pot planifica atÃ¢t de departe Ã®n viitor.â€:</strong> Planificarea pe termen lung poate pÄƒrea dificilÄƒ, mai ales Ã®n faÈ›a unor resurse financiare limitate. TotuÈ™i, o poliÈ›Äƒ de asigurare este una dintre cele mai uÈ™or de implementat mÄƒsuri de protecÈ›ie, oferind siguranÈ›Äƒ financiarÄƒ fÄƒrÄƒ eforturi semnificative.'
+            '<strong>„Este prea scumpă pentru mine.”:</strong> Mulți părinți singuri evită să încheie o poliță, crezând că primele de asigurare sunt inaccesibile. În realitate, există opțiuni flexibile care pot fi adaptate la orice buget. De exemplu, o poliță temporară poate oferi o acoperire adecvată la costuri reduse.',
+            '<strong>„Nu am nevoie de o asigurare pentru că sunt tânăr și sănătos.”:</strong> Sănătatea și vârsta actuală nu elimină riscurile evenimentelor neașteptate. O poliță de asigurare este o măsură preventivă, menită să oferă protecție în cazurile cele mai dificile.',
+            '<strong>„Copilul meu va fi sprijinit de rude.”:</strong> Deși sprijinul familial este valoros, nu toate rudele au capacitatea financiară de a acoperi cheltuielile unui copil pe termen lung. O poliță de asigurare oferă copilului independență financiară, reducând povara asupra familiei.',
+            '<strong>„Este complicat să închei o poliță.”:</strong> Procedurile pentru încheierea unei polițe de asigurare sunt simple și eficiente. Cu ajutorul unui broker sau consultant de asigurări, poți găsi rapid o soluție adaptată nevoilor tale.',
+            '<strong>„Nu pot planifica atât de departe în viitor.”:</strong> Planificarea pe termen lung poate părea dificilă, mai ales în fața unor resurse financiare limitate. Totuși, o poliță de asigurare este una dintre cele mai ușor de implementat măsuri de protecție, oferind siguranță financiară fără eforturi semnificative.'
           ]
         }
       ]
@@ -140,67 +140,67 @@ const articleData: BlogArticleData = {
     {
       id: 'alegere-polita',
       heading:
-        'PaÈ™i practici pentru alegerea unei poliÈ›e de asigurare de viaÈ›Äƒ',
+        'Pași practici pentru alegerea unei polițe de asigurare de viață',
       content:
-        'Alegerea unei poliÈ›e de <a href="https://www.asigurari.ro/asigurare/life"><strong>asigurare de viaÈ›Äƒ</strong></a> este un proces care trebuie sÄƒ fie personalizat È™i bine gÃ¢ndit. PÄƒrinÈ›ii singuri au nevoi unice, iar o poliÈ›Äƒ potrivitÄƒ trebuie sÄƒ acopere atÃ¢t cheltuielile pe termen scurt, cÃ¢t È™i pe cele pe termen lung ale copilului. UrmÄƒtorii paÈ™i te pot ghida pentru a face cea mai bunÄƒ alegere.',
+        'Alegerea unei polițe de <a href="https://www.asigurari.ro/asigurare/life"><strong>asigurare de viață</strong></a> este un proces care trebuie să fie personalizat și bine gândit. Părinții singuri au nevoi unice, iar o poliță potrivită trebuie să acopere atât cheltuielile pe termen scurt, cât și pe cele pe termen lung ale copilului. Următorii pași te pot ghida pentru a face cea mai bună alegere.',
       subsections: [
         {
-          subheading: 'CalculeazÄƒ suma necesarÄƒ',
+          subheading: 'Calculează suma necesară',
           content:
-            'StabileÈ™te ce cheltuieli ar trebui acoperite Ã®n cazul unui eveniment tragic. Acestea pot include:',
+            'Stabilește ce cheltuieli ar trebui acoperite în cazul unui eveniment tragic. Acestea pot include:',
           lists: [
             {
               items: [
-                'Taxele È™colare È™i universitare.',
-                'Ratele ipotecare rÄƒmase.',
-                'Cheltuielile zilnice (hrana, Ã®mbrÄƒcÄƒmintea, utilitÄƒÈ›ile).',
-                'Un fond pentru urgenÈ›e medicale sau alte evenimente neprevÄƒzute.'
+                'Taxele școlare și universitare.',
+                'Ratele ipotecare rămase.',
+                'Cheltuielile zilnice (hrana, îmbrăcămintea, utilitățile).',
+                'Un fond pentru urgențe medicale sau alte evenimente neprevăzute.'
               ]
             }
           ]
         },
         {
-          subheading: 'DeterminÄƒ durata poliÈ›ei:',
+          subheading: 'Determină durata poliței:',
           content:
-            'Durata poliÈ›ei ar trebui sÄƒ acopere perioada Ã®n care copilul depinde financiar de tine. De exemplu:',
+            'Durata poliței ar trebui să acopere perioada în care copilul depinde financiar de tine. De exemplu:',
           lists: [
             {
               items: [
-                'DacÄƒ copilul are 5 ani, o poliÈ›Äƒ de 15-20 de ani poate fi idealÄƒ, asigurÃ¢nd protecÈ›ie pÃ¢nÄƒ la maturitatea sa.'
+                'Dacă copilul are 5 ani, o poliță de 15-20 de ani poate fi ideală, asigurând protecție până la maturitatea sa.'
               ]
             }
           ]
         },
         {
-          subheading: 'Alege tipul de poliÈ›Äƒ:',
-          content: 'ExistÄƒ 2 tipuri de poliÈ›e:',
+          subheading: 'Alege tipul de poliță:',
+          content: 'Există 2 tipuri de polițe:',
           lists: [
             {
               items: [
-                '<strong>PoliÈ›a temporarÄƒ:</strong> AcoperÄƒ o perioadÄƒ fixÄƒ (ex. 10, 20 sau 30 de ani) È™i este mai accesibilÄƒ.',
-                '<strong>PoliÈ›a permanentÄƒ:</strong> Include È™i o componentÄƒ de economisire, oferind beneficii suplimentare pe termen lung.'
+                '<strong>Polița temporară:</strong> Acoperă o perioadă fixă (ex. 10, 20 sau 30 de ani) și este mai accesibilă.',
+                '<strong>Polița permanentă:</strong> Include și o componentă de economisire, oferind beneficii suplimentare pe termen lung.'
               ]
             }
           ]
         },
         {
-          subheading: 'StabileÈ™te un buget realist',
+          subheading: 'Stabilește un buget realist',
           content:
-            'AsigurÄƒ-te cÄƒ primele lunare sunt accesibile pentru bugetul tÄƒu. O poliÈ›Äƒ mai modestÄƒ este mai bunÄƒ decÃ¢t sÄƒ nu ai deloc protecÈ›ie.'
+            'Asigură-te că primele lunare sunt accesibile pentru bugetul tău. O poliță mai modestă este mai bună decât să nu ai deloc protecție.'
         },
         {
-          subheading: 'VerificÄƒ reputaÈ›ia asiguratorului',
+          subheading: 'Verifică reputația asiguratorului',
           content:
-            'OpteazÄƒ pentru o companie de asigurÄƒri cunoscutÄƒ pentru transparenÈ›Äƒ È™i promptitudine Ã®n procesarea cererilor. Recenziile altor clienÈ›i pot fi o resursÄƒ valoroasÄƒ.'
+            'Optează pentru o companie de asigurări cunoscută pentru transparență și promptitudine în procesarea cererilor. Recenziile altor clienți pot fi o resursă valoroasă.'
         },
         {
-          subheading: 'ConsultÄƒ un specialist',
+          subheading: 'Consultă un specialist',
           content:
-            'Un broker de asigurÄƒri sau un consultant te poate ajuta sÄƒ identifici poliÈ›ele care se potrivesc cel mai bine situaÈ›iei tale financiare È™i personale.'
+            'Un broker de asigurări sau un consultant te poate ajuta să identifici polițele care se potrivesc cel mai bine situației tale financiare și personale.'
         }
       ],
       additional_content:
-        'Pentru pÄƒrinÈ›ii singuri, o asigurare de viaÈ›Äƒ nu este doar o decizie financiarÄƒ, ci un act de responsabilitate È™i iubire. Aceasta oferÄƒ stabilitatea financiarÄƒ necesarÄƒ pentru a proteja viitorul copilului tÄƒu È™i pentru a-i asigura accesul la oportunitÄƒÈ›ile de care are nevoie pentru a-È™i atinge potenÈ›ialul.|Pentru a gÄƒsi cea mai potrivitÄƒ asigurare de viaÈ›Äƒ pentru tine È™i copilul tÄƒu viziteazÄƒ <a href="https://www.asigurari.ro"><strong>asigurari.ro</strong></a>. Investind Ã®n protecÈ›ia viitorului copilului tÄƒu, faci un pas important cÄƒtre o viaÈ›Äƒ lipsitÄƒ de griji.'
+        'Pentru părinții singuri, o asigurare de viață nu este doar o decizie financiară, ci un act de responsabilitate și iubire. Aceasta oferă stabilitatea financiară necesară pentru a proteja viitorul copilului tău și pentru a-i asigura accesul la oportunitățile de care are nevoie pentru a-și atinge potențialul.|Pentru a găsi cea mai potrivită asigurare de viață pentru tine și copilul tău vizitează <a href="https://www.asigurari.ro"><strong>asigurari.ro</strong></a>. Investind în protecția viitorului copilului tău, faci un pas important către o viață lipsită de griji.'
     }
   ],
   conclusion: ''

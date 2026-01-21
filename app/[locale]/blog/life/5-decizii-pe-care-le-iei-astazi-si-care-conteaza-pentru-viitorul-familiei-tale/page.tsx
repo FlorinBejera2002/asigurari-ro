@@ -5,16 +5,16 @@ import BlogArticle from '../../components/BlogArticle'
 export const metadata: Metadata = {
   title: '5 decizii importante pentru viitorul familiei tale | asigurari.ro',
   description:
-    'Viitorul familiei tale depinde de alegerile pe care le faci azi âž¤ Afla cum economiile, educatia, sanatatea si asigurarea de viata pot contribui la siguranta celor dragi'
+    'Viitorul familiei tale depinde de alegerile pe care le faci azi ➤ Afla cum economiile, educatia, sanatatea si asigurarea de viata pot contribui la siguranta celor dragi'
 }
 
 const articleData: BlogArticleData = {
   title:
-    '5 Decizii pe Care Le Iei AstÄƒzi È™i Care ConteazÄƒ pentru Viitorul Familiei Tale',
+    '5 Decizii pe Care Le Iei Astăzi și Care Contează pentru Viitorul Familiei Tale',
   image: '/images/asigurari/blog/life/parintii-se-joaca-cu-copilul.webp',
   image_alt: 'Parinti care se joaca cu copilul',
   intro_text:
-    'Viitorul familiei tale depinde Ã®ntr-o mare mÄƒsurÄƒ de deciziile pe care le iei astÄƒzi. DeÈ™i ne concentrÄƒm adesea pe aspectele imediate, alegerile pe care le facem Ã®n prezent pot avea un impact profund pe termen lung. Fie cÄƒ este vorba de economii, investiÈ›ii Ã®n educaÈ›ia copiilor sau sÄƒnÄƒtatea membrilor familiei, aceste decizii pot construi un viitor mai sigur È™i mai stabil.|Acest articol exploreazÄƒ cinci decizii importante care pot influenÈ›a viitorul familiei tale È™i modul Ã®n care asigurarea de viaÈ›Äƒ poate juca un rol crucial Ã®n planificarea pentru zilele neprevÄƒzute.',
+    'Viitorul familiei tale depinde într-o mare măsură de deciziile pe care le iei astăzi. Deși ne concentrăm adesea pe aspectele imediate, alegerile pe care le facem în prezent pot avea un impact profund pe termen lung. Fie că este vorba de economii, investiții în educația copiilor sau sănătatea membrilor familiei, aceste decizii pot construi un viitor mai sigur și mai stabil.|Acest articol explorează cinci decizii importante care pot influența viitorul familiei tale și modul în care asigurarea de viață poate juca un rol crucial în planificarea pentru zilele neprevăzute.',
   toc_items: [
     {
       href: '#construirea-unui-fond-de-economii',
@@ -22,19 +22,19 @@ const articleData: BlogArticleData = {
     },
     {
       href: '#alegerea-unui-stil-de-viata-sanatos',
-      title: 'Alegerea unui stil de viaÈ›Äƒ sÄƒnÄƒtos'
+      title: 'Alegerea unui stil de viață sănătos'
     },
     {
       href: '#investitiile-in-educatia-copiilor',
-      title: 'InvestiÈ›iile Ã®n educaÈ›ia copiilor'
+      title: 'Investițiile în educația copiilor'
     },
     {
       href: '#planificarea-financiara',
-      title: 'Planificarea financiarÄƒ È™i investiÈ›iile pe termen lung'
+      title: 'Planificarea financiară și investițiile pe termen lung'
     },
     {
       href: '#asigurarea-de-viata',
-      title: 'Protejarea viitorului printr-o asigurare de viaÈ›Äƒ'
+      title: 'Protejarea viitorului printr-o asigurare de viață'
     }
   ],
   content_sections: [
@@ -42,64 +42,64 @@ const articleData: BlogArticleData = {
       id: 'construirea-unui-fond-de-economii',
       heading: 'Construirea unui fond de economii',
       content:
-        'Un fond de economii solid este esenÈ›ial pentru a oferi familiei tale stabilitate financiarÄƒ È™i pentru a face faÈ›Äƒ cheltuielilor neprevÄƒzute. Acest fond nu este doar o plasÄƒ de siguranÈ›Äƒ pentru situaÈ›ii de urgenÈ›Äƒ, ci È™i o modalitate de a planifica pentru obiective pe termen lung, cum ar fi educaÈ›ia copiilor, achiziÈ›ia unei locuinÈ›e sau planurile de vacanÈ›Äƒ.',
+        'Un fond de economii solid este esențial pentru a oferi familiei tale stabilitate financiară și pentru a face față cheltuielilor neprevăzute. Acest fond nu este doar o plasă de siguranță pentru situații de urgență, ci și o modalitate de a planifica pentru obiective pe termen lung, cum ar fi educația copiilor, achiziția unei locuințe sau planurile de vacanță.',
       lists: [
         {
           title: 'Avantajele unui fond de economii:',
           items: [
-            '<strong>SiguranÈ›Äƒ financiarÄƒ Ã®n situaÈ›ii neprevÄƒzute</strong>: Fondul de urgenÈ›Äƒ ajutÄƒ la gestionarea cheltuielilor neaÈ™teptate fÄƒrÄƒ a apela la Ã®mprumuturi costisitoare.',
-            '<strong>Flexibilitate Ã®n planificarea cheltuielilor mari</strong>: Economiile oferÄƒ mai multÄƒ libertate Ã®n deciziile financiare, fiind utile Ã®n planificarea pentru obiective importante.',
-            '<strong>Stabilitate pe termen lung</strong>: Construirea unui fond de economii contribuie la reducerea stresului financiar, avÃ¢nd o bazÄƒ de rezervÄƒ pentru momentele mai dificile.'
+            '<strong>Siguranță financiară în situații neprevăzute</strong>: Fondul de urgență ajută la gestionarea cheltuielilor neașteptate fără a apela la împrumuturi costisitoare.',
+            '<strong>Flexibilitate în planificarea cheltuielilor mari</strong>: Economiile oferă mai multă libertate în deciziile financiare, fiind utile în planificarea pentru obiective importante.',
+            '<strong>Stabilitate pe termen lung</strong>: Construirea unui fond de economii contribuie la reducerea stresului financiar, având o bază de rezervă pentru momentele mai dificile.'
           ]
         },
         {
           title: 'Sfaturi pentru construirea unui fond de economii eficient:',
           items: [
-            '<strong>StabileÈ™te un buget lunar È™i alocÄƒ o sumÄƒ pentru economii</strong>: Chiar dacÄƒ suma este micÄƒ, consecvenÈ›a va face diferenÈ›a Ã®n timp.',
-            '<strong>Deschide un cont separat pentru economii</strong>: Acest lucru ajutÄƒ la pÄƒstrarea fondurilor Ã®ntr-un loc separat, reducÃ¢nd tentaÈ›ia de a cheltui banii economisiÈ›i.',
-            '<strong>RevizuieÈ™te È™i ajusteazÄƒ fondul de economii Ã®n funcÈ›ie de schimbÄƒrile financiare</strong>: Pe mÄƒsurÄƒ ce veniturile cresc, Ã®ncearcÄƒ sÄƒ mÄƒreÈ™ti suma economisitÄƒ, asigurÃ¢nd astfel o stabilitate mai mare.'
+            '<strong>Stabilește un buget lunar și alocă o sumă pentru economii</strong>: Chiar dacă suma este mică, consecvența va face diferența în timp.',
+            '<strong>Deschide un cont separat pentru economii</strong>: Acest lucru ajută la păstrarea fondurilor într-un loc separat, reducând tentația de a cheltui banii economisiți.',
+            '<strong>Revizuiește și ajustează fondul de economii în funcție de schimbările financiare</strong>: Pe măsură ce veniturile cresc, încearcă să mărești suma economisită, asigurând astfel o stabilitate mai mare.'
           ]
         }
       ]
     },
     {
       id: 'alegerea-unui-stil-de-viata-sanatos',
-      heading: 'Alegerea unui stil de viaÈ›Äƒ sÄƒnÄƒtos',
+      heading: 'Alegerea unui stil de viață sănătos',
       content:
-        'SÄƒnÄƒtatea reprezintÄƒ unul dintre cei mai importanÈ›i factori pentru o viaÈ›Äƒ Ã®mplinitÄƒ È™i fericitÄƒ. Un stil de viaÈ›Äƒ sÄƒnÄƒtos asigurÄƒ bunÄƒstarea fizicÄƒ È™i mentalÄƒ a familiei tale, reducÃ¢nd riscurile de afecÈ›iuni È™i contribuind la o calitate a vieÈ›ii mai ridicatÄƒ. Decizia de a adopta obiceiuri sÄƒnÄƒtoase are un impact direct asupra membrilor familiei È™i creeazÄƒ un exemplu pozitiv pentru cei mici.',
+        'Sănătatea reprezintă unul dintre cei mai importanți factori pentru o viață împlinită și fericită. Un stil de viață sănătos asigură bunăstarea fizică și mentală a familiei tale, reducând riscurile de afecțiuni și contribuind la o calitate a vieții mai ridicată. Decizia de a adopta obiceiuri sănătoase are un impact direct asupra membrilor familiei și creează un exemplu pozitiv pentru cei mici.',
       lists: [
         {
-          title: 'Elemente esenÈ›iale pentru un stil de viaÈ›Äƒ sÄƒnÄƒtos:',
+          title: 'Elemente esențiale pentru un stil de viață sănătos:',
           items: [
-            '<strong>AlimentaÈ›ie echilibratÄƒ</strong>: AsigurÄƒ-te cÄƒ familia consumÄƒ o varietate de fructe, legume, proteine È™i grÄƒsimi sÄƒnÄƒtoase, evitÃ¢nd alimentele procesate.',
-            '<strong>Activitate fizicÄƒ regulatÄƒ</strong>: PromoveazÄƒ activitÄƒÈ›ile fizice, fie prin sporturi, fie prin drumeÈ›ii sau alte activitÄƒÈ›i recreative.',
-            '<strong>SÄƒnÄƒtatea mintalÄƒ</strong>: OferÄƒ un mediu armonios acasÄƒ È™i discutÄƒ deschis despre emoÈ›ii È™i probleme, pentru a reduce stresul È™i tensiunile.'
+            '<strong>Alimentație echilibrată</strong>: Asigură-te că familia consumă o varietate de fructe, legume, proteine și grăsimi sănătoase, evitând alimentele procesate.',
+            '<strong>Activitate fizică regulată</strong>: Promovează activitățile fizice, fie prin sporturi, fie prin drumeții sau alte activități recreative.',
+            '<strong>Sănătatea mintală</strong>: Oferă un mediu armonios acasă și discută deschis despre emoții și probleme, pentru a reduce stresul și tensiunile.'
           ]
         }
       ],
       additional_content:
-        'Chiar È™i cu toate aceste mÄƒsuri de prevenÈ›ie, unele probleme de sÄƒnÄƒtate pot apÄƒrea oricÃ¢nd, iar accesul rapid la Ã®ngrijire medicalÄƒ de calitate poate face diferenÈ›a. O <a href="https://www.asigurari.ro/asigurare/health"><strong> asigurare de sÄƒnÄƒtate</strong></a> bine aleasÄƒ poate fi un sprijin important pentru familia ta, acoperind costurile unor consultaÈ›ii sau tratamente care altfel ar putea deveni o povarÄƒ financiarÄƒ. Astfel, nu doar cÄƒ Ã®È›i protejezi familia de cheltuieli neprevÄƒzute, dar ai È™i certitudinea cÄƒ poÈ›i oferi acces la cele mai bune opÈ›iuni de Ã®ngrijire medicalÄƒ, indiferent de circumstanÈ›e.'
+        'Chiar și cu toate aceste măsuri de prevenție, unele probleme de sănătate pot apărea oricând, iar accesul rapid la îngrijire medicală de calitate poate face diferența. O <a href="https://www.asigurari.ro/asigurare/health"><strong> asigurare de sănătate</strong></a> bine aleasă poate fi un sprijin important pentru familia ta, acoperind costurile unor consultații sau tratamente care altfel ar putea deveni o povară financiară. Astfel, nu doar că îți protejezi familia de cheltuieli neprevăzute, dar ai și certitudinea că poți oferi acces la cele mai bune opțiuni de îngrijire medicală, indiferent de circumstanțe.'
     },
     {
       id: 'investitiile-in-educatia-copiilor',
-      heading: 'InvestiÈ›iile Ã®n educaÈ›ia copiilor',
+      heading: 'Investițiile în educația copiilor',
       content:
-        'EducaÈ›ia este una dintre cele mai valoroase moÈ™teniri pe care le poÈ›i lÄƒsa copiilor tÄƒi. Cu o bazÄƒ educaÈ›ionalÄƒ solidÄƒ, aceÈ™tia au mai multe È™anse de a reuÈ™i Ã®n viaÈ›Äƒ, de a-È™i gÄƒsi un loc de muncÄƒ stabil È™i de a dezvolta abilitÄƒÈ›i esenÈ›iale pentru independenÈ›Äƒ. Planificarea financiarÄƒ pentru educaÈ›ie este o decizie importantÄƒ, permiÈ›Ã¢nd accesul la o educaÈ›ie de calitate fÄƒrÄƒ stres financiar.',
+        'Educația este una dintre cele mai valoroase moșteniri pe care le poți lăsa copiilor tăi. Cu o bază educațională solidă, aceștia au mai multe șanse de a reuși în viață, de a-și găsi un loc de muncă stabil și de a dezvolta abilități esențiale pentru independență. Planificarea financiară pentru educație este o decizie importantă, permițând accesul la o educație de calitate fără stres financiar.',
       lists: [
         {
-          title: 'Beneficiile investiÈ›iei Ã®n educaÈ›ia copiilor:',
+          title: 'Beneficiile investiției în educația copiilor:',
           items: [
-            '<strong>OportunitÄƒÈ›i mai mari</strong>: Copiii cu o educaÈ›ie solidÄƒ pot avea mai multe È™anse pe piaÈ›a muncii È™i pot dezvolta o carierÄƒ stabilÄƒ.',
-            '<strong>Dezvoltarea abilitÄƒÈ›ilor</strong>: EducaÈ›ia nu Ã®nseamnÄƒ doar cunoÈ™tinÈ›e academice, ci È™i dezvoltarea abilitÄƒÈ›ilor de viaÈ›Äƒ, cum ar fi gÃ¢ndirea criticÄƒ È™i Ã®ncrederea Ã®n sine.',
-            '<strong>Dezvoltarea inteligenÈ›ei academice È™i emoÈ›ionale, fundament pentru o viaÈ›Äƒ echilibratÄƒ</strong>: O educaÈ›ie bunÄƒ este esenÈ›ialÄƒ pentru ca aceÈ™tia sÄƒ-È™i construiascÄƒ o viaÈ›Äƒ stabilÄƒ È™i sÄƒ devinÄƒ cetÄƒÈ›eni responsabili.'
+            '<strong>Oportunități mai mari</strong>: Copiii cu o educație solidă pot avea mai multe șanse pe piața muncii și pot dezvolta o carieră stabilă.',
+            '<strong>Dezvoltarea abilităților</strong>: Educația nu înseamnă doar cunoștințe academice, ci și dezvoltarea abilităților de viață, cum ar fi gândirea critică și încrederea în sine.',
+            '<strong>Dezvoltarea inteligenței academice și emoționale, fundament pentru o viață echilibrată</strong>: O educație bună este esențială pentru ca aceștia să-și construiască o viață stabilă și să devină cetățeni responsabili.'
           ]
         },
         {
-          title: 'Sfaturi pentru investiÈ›ii Ã®n educaÈ›ia copiilor:',
+          title: 'Sfaturi pentru investiții în educația copiilor:',
           items: [
-            '<strong>EconomiseÈ™te Ã®n mod constant</strong>: ÃŽncepe sÄƒ economiseÈ™ti pentru educaÈ›ia copiilor Ã®ncÄƒ de la o vÃ¢rstÄƒ fragedÄƒ.',
-            '<strong>ExploraÈ›i opÈ›iunile de burse È™i activitÄƒÈ›i extracurriculare</strong>: Acestea sunt esenÈ›iale pentru a Ã®ncuraja copiii sÄƒ Ã®È™i descopere pasiunile È™i sÄƒ se dezvolte armonios.',
-            '<strong>PrioritizeazÄƒ calitatea educaÈ›iei</strong>: AsigurÄƒ-te cÄƒ alegi cea mai bunÄƒ opÈ›iune educaÈ›ionalÄƒ, indiferent dacÄƒ este vorba de È™coalÄƒ sau activitÄƒÈ›i extracurriculare.'
+            '<strong>Economisește în mod constant</strong>: Începe să economisești pentru educația copiilor încă de la o vârstă fragedă.',
+            '<strong>Explorați opțiunile de burse și activități extracurriculare</strong>: Acestea sunt esențiale pentru a încuraja copiii să își descopere pasiunile și să se dezvolte armonios.',
+            '<strong>Prioritizează calitatea educației</strong>: Asigură-te că alegi cea mai bună opțiune educațională, indiferent dacă este vorba de școală sau activități extracurriculare.'
           ]
         }
       ],
@@ -110,55 +110,55 @@ const articleData: BlogArticleData = {
     },
     {
       id: 'planificarea-financiara',
-      heading: 'Planificarea financiarÄƒ È™i investiÈ›iile pe termen lung',
+      heading: 'Planificarea financiară și investițiile pe termen lung',
       content:
-        'Planificarea financiarÄƒ reprezintÄƒ una dintre cele mai importante decizii pe care le poÈ›i lua pentru a-È›i asigura stabilitatea pe termen lung. Prin investiÈ›ii inteligente È™i gestionarea atentÄƒ a veniturilor È™i cheltuielilor, poÈ›i crea un fond de rezervÄƒ care sÄƒ Ã®È›i ofere siguranÈ›Äƒ financiarÄƒ. InvestiÈ›iile, cum ar fi fondurile mutuale, acÈ›iunile sau proprietÄƒÈ›ile, pot aduce cÃ¢È™tiguri pe termen lung È™i pot susÈ›ine o viaÈ›Äƒ fÄƒrÄƒ datorii.',
+        'Planificarea financiară reprezintă una dintre cele mai importante decizii pe care le poți lua pentru a-ți asigura stabilitatea pe termen lung. Prin investiții inteligente și gestionarea atentă a veniturilor și cheltuielilor, poți crea un fond de rezervă care să îți ofere siguranță financiară. Investițiile, cum ar fi fondurile mutuale, acțiunile sau proprietățile, pot aduce câștiguri pe termen lung și pot susține o viață fără datorii.',
       lists: [
         {
-          title: 'Avantajele unei planificÄƒri financiare eficiente:',
+          title: 'Avantajele unei planificări financiare eficiente:',
           items: [
-            '<strong>IndependenÈ›Äƒ financiarÄƒ</strong>: Gestionarea adecvatÄƒ a banilor permite atingerea obiectivelor financiare fÄƒrÄƒ a apela la Ã®mprumuturi sau datorii.',
-            '<strong>CreÈ™terea valorii economiilor</strong>: InvestiÈ›iile inteligente pot genera cÃ¢È™tiguri care sÄƒ Ã®mbunÄƒtÄƒÈ›eascÄƒ nivelul de trai È™i sÄƒ aducÄƒ mai multÄƒ stabilitate financiarÄƒ.',
-            '<strong>ProtecÈ›ie Ã®mpotriva inflaÈ›iei</strong>: Prin investiÈ›ii, poÈ›i asigura cÄƒ valoarea economiilor tale rÄƒmÃ¢ne stabilÄƒ pe termen lung.'
+            '<strong>Independență financiară</strong>: Gestionarea adecvată a banilor permite atingerea obiectivelor financiare fără a apela la împrumuturi sau datorii.',
+            '<strong>Creșterea valorii economiilor</strong>: Investițiile inteligente pot genera câștiguri care să îmbunătățească nivelul de trai și să aducă mai multă stabilitate financiară.',
+            '<strong>Protecție împotriva inflației</strong>: Prin investiții, poți asigura că valoarea economiilor tale rămâne stabilă pe termen lung.'
           ]
         },
         {
-          title: 'Sfaturi pentru o planificare financiarÄƒ solidÄƒ:',
+          title: 'Sfaturi pentru o planificare financiară solidă:',
           items: [
-            '<strong>EvalueazÄƒ-È›i situaÈ›ia financiarÄƒ</strong>: AnalizeazÄƒ-È›i veniturile È™i cheltuielile pentru a vedea cÃ¢t poÈ›i economisi È™i investi Ã®n mod regulat.',
-            '<strong>DiversificÄƒ-È›i investiÈ›iile</strong>: InvesteÈ™te Ã®n mai multe tipuri de active pentru a reduce riscul È™i a obÈ›ine cÃ¢È™tiguri mai stabile.',
-            '<strong>ConsultÄƒ un specialist financiar</strong>: Un consultant financiar te poate ajuta sÄƒ identifici cele mai potrivite investiÈ›ii È™i sÄƒ construieÈ™ti un portofoliu care sÄƒ corespundÄƒ obiectivelor tale.'
+            '<strong>Evaluează-ți situația financiară</strong>: Analizează-ți veniturile și cheltuielile pentru a vedea cât poți economisi și investi în mod regulat.',
+            '<strong>Diversifică-ți investițiile</strong>: Investește în mai multe tipuri de active pentru a reduce riscul și a obține câștiguri mai stabile.',
+            '<strong>Consultă un specialist financiar</strong>: Un consultant financiar te poate ajuta să identifici cele mai potrivite investiții și să construiești un portofoliu care să corespundă obiectivelor tale.'
           ]
         }
       ]
     },
     {
       id: 'asigurarea-de-viata',
-      heading: 'Protejarea viitorului printr-o asigurare de viaÈ›Äƒ',
+      heading: 'Protejarea viitorului printr-o asigurare de viață',
       content:
-        'O <a href="https://www.asigurari.ro/asigurare/life"><strong> asigurare de viaÈ›Äƒ</strong></a> reprezintÄƒ un pas esenÈ›ial pentru a asigura securitatea financiarÄƒ a familiei Ã®n cazul unor situaÈ›ii neprevÄƒzute. Cu o poliÈ›Äƒ de asigurare de viaÈ›Äƒ, poÈ›i avea certitudinea cÄƒ cei dragi vor fi protejaÈ›i financiar, chiar È™i Ã®n lipsa ta. Aceasta este o mÄƒsurÄƒ importantÄƒ pentru pÄƒrinÈ›i È™i susÈ›inÄƒtorii principali ai familiei, deoarece oferÄƒ sprijin financiar Ã®n momente dificile.',
+        'O <a href="https://www.asigurari.ro/asigurare/life"><strong> asigurare de viață</strong></a> reprezintă un pas esențial pentru a asigura securitatea financiară a familiei în cazul unor situații neprevăzute. Cu o poliță de asigurare de viață, poți avea certitudinea că cei dragi vor fi protejați financiar, chiar și în lipsa ta. Aceasta este o măsură importantă pentru părinți și susținătorii principali ai familiei, deoarece oferă sprijin financiar în momente dificile.',
       lists: [
         {
-          title: 'Avantajele unei asigurÄƒri de viaÈ›Äƒ:',
+          title: 'Avantajele unei asigurări de viață:',
           items: [
-            '<strong>Stabilitate financiarÄƒ pentru familie</strong>: O asigurare de viaÈ›Äƒ oferÄƒ protecÈ›ie financiarÄƒ È™i acoperÄƒ cheltuielile Ã®n caz de deces, permiÈ›Ã¢nd familiei sÄƒ-È™i continue viaÈ›a fÄƒrÄƒ stres financiar.',
-            '<strong>Acoperirea datoriilor È™i altor cheltuieli esenÈ›iale</strong>: Asigurarea de viaÈ›Äƒ poate acoperi Ã®mprumuturile È™i taxele, eliminÃ¢nd povara acestor cheltuieli pentru membrii familiei.',
-            '<strong>O formÄƒ de investiÈ›ie pentru viitor</strong>: Multe poliÈ›e de asigurare includ È™i opÈ›iuni de economisire sau investiÈ›ie, creÃ¢nd astfel un fond suplimentar pentru viitorul familiei.'
+            '<strong>Stabilitate financiară pentru familie</strong>: O asigurare de viață oferă protecție financiară și acoperă cheltuielile în caz de deces, permițând familiei să-și continue viața fără stres financiar.',
+            '<strong>Acoperirea datoriilor și altor cheltuieli esențiale</strong>: Asigurarea de viață poate acoperi împrumuturile și taxele, eliminând povara acestor cheltuieli pentru membrii familiei.',
+            '<strong>O formă de investiție pentru viitor</strong>: Multe polițe de asigurare includ și opțiuni de economisire sau investiție, creând astfel un fond suplimentar pentru viitorul familiei.'
           ]
         },
         {
-          title: 'Cum sÄƒ alegi o asigurare de viaÈ›Äƒ potrivitÄƒ:',
+          title: 'Cum să alegi o asigurare de viață potrivită:',
           items: [
-            '<strong>AnalizeazÄƒ nevoile familiei</strong>: AsigurÄƒ-te cÄƒ poliÈ›a pe care o alegi acoperÄƒ toate necesitÄƒÈ›ile financiare ale familiei pe termen lung.',
-            '<strong>StabileÈ™te o sumÄƒ asiguratÄƒ adecvatÄƒ</strong>: Valoarea poliÈ›ei ar trebui sÄƒ fie suficient de mare pentru a asigura stabilitatea familiei È™i pentru a acoperi toate cheltuielile necesare.',
-            '<strong>ConsultÄƒ-te cu un specialist Ã®n asigurÄƒri</strong>: Un expert poate analiza situaÈ›ia financiarÄƒ È™i nevoile tale, ajutÃ¢ndu-te sÄƒ alegi poliÈ›a care oferÄƒ cea mai mare protecÈ›ie È™i cel mai bun raport cost-beneficiu.'
+            '<strong>Analizează nevoile familiei</strong>: Asigură-te că polița pe care o alegi acoperă toate necesitățile financiare ale familiei pe termen lung.',
+            '<strong>Stabilește o sumă asigurată adecvată</strong>: Valoarea poliței ar trebui să fie suficient de mare pentru a asigura stabilitatea familiei și pentru a acoperi toate cheltuielile necesare.',
+            '<strong>Consultă-te cu un specialist în asigurări</strong>: Un expert poate analiza situația financiară și nevoile tale, ajutându-te să alegi polița care oferă cea mai mare protecție și cel mai bun raport cost-beneficiu.'
           ]
         }
       ]
     }
   ],
   conclusion:
-    'Alegerea deciziilor potrivite astÄƒzi poate asigura un viitor mai stabil È™i mai fericit pentru familia ta. De la construirea unui fond de economii È™i adoptarea unui stil de viaÈ›Äƒ sÄƒnÄƒtos, la planificarea educaÈ›iei È™i protejarea financiarÄƒ prin asigurarea de viaÈ›Äƒ, fiecare dintre aceste decizii contribuie la un viitor sigur È™i bine structurat.|Pentru o protecÈ›ie completÄƒ a viitorului familiei tale, exploreazÄƒ opÈ›iunile de asigurare de viaÈ›Äƒ disponibile pe <a href="https://www.asigurari.ro"><strong>asigurari.ro</strong></a>. AsigurÄƒ-te cÄƒ cei dragi vor beneficia de stabilitate financiarÄƒ Ã®n orice circumstanÈ›e, oferindu-le liniÈ™tea È™i sprijinul necesar!'
+    'Alegerea deciziilor potrivite astăzi poate asigura un viitor mai stabil și mai fericit pentru familia ta. De la construirea unui fond de economii și adoptarea unui stil de viață sănătos, la planificarea educației și protejarea financiară prin asigurarea de viață, fiecare dintre aceste decizii contribuie la un viitor sigur și bine structurat.|Pentru o protecție completă a viitorului familiei tale, explorează opțiunile de asigurare de viață disponibile pe <a href="https://www.asigurari.ro"><strong>asigurari.ro</strong></a>. Asigură-te că cei dragi vor beneficia de stabilitate financiară în orice circumstanțe, oferindu-le liniștea și sprijinul necesar!'
 }
 
 export default function Page() {

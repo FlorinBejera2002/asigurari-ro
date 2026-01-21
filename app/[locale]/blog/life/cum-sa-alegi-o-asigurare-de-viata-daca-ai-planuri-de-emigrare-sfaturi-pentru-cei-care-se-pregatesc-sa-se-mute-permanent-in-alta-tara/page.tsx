@@ -6,68 +6,68 @@ export const metadata: Metadata = {
   title:
     'Cum sa alegi asigurarea de viata potrivita pentru emigrare | asigurari.ro',
   description:
-    'Planuiesti sa te muti permanent in alta tara? âž¤ Afla cum sa alegi cea mai buna asigurare de viata pentru protectia ta si a familiei tale'
+    'Planuiesti sa te muti permanent in alta tara? ➤ Afla cum sa alegi cea mai buna asigurare de viata pentru protectia ta si a familiei tale'
 }
 
 const articleData: BlogArticleData = {
   title:
-    'Cum sÄƒ alegi o asigurare de viaÈ›Äƒ dacÄƒ ai planuri de emigrare â€“ Sfaturi pentru cei care se pregÄƒtesc sÄƒ se mute permanent Ã®n altÄƒ È›arÄƒ',
+    'Cum să alegi o asigurare de viață dacă ai planuri de emigrare – Sfaturi pentru cei care se pregătesc să se mute permanent în altă țară',
   image: '/images/asigurari/blog/life/calator-privind-harta-lumii.webp',
   image_alt: 'Calator privind harta lumii',
   intro_text:
-    'Emigrarea reprezintÄƒ un pas important Ã®n viaÈ›a oricÄƒrei persoane, aducÃ¢nd cu sine schimbÄƒri semnificative Ã®n toate aspectele vieÈ›ii, inclusiv Ã®n ceea ce priveÈ™te protecÈ›ia financiarÄƒ. Alegerea unei asigurÄƒri de viaÈ›Äƒ adecvate este esenÈ›ialÄƒ pentru a-È›i proteja pe tine È™i pe cei dragi, mai ales atunci cÃ¢nd te muÈ›i permanent Ã®n altÄƒ È›arÄƒ. Un astfel de plan financiar te poate ajuta sÄƒ faci faÈ›Äƒ provocÄƒrilor viitoare È™i sÄƒ te asiguri cÄƒ cei care depind de tine vor avea sprijinul necesar Ã®n cazul unui eveniment neprevÄƒzut. ÃŽn acest articol, vom explora cum sÄƒ alegi cea mai bunÄƒ asigurare de viaÈ›Äƒ pentru situaÈ›ia ta specificÄƒ, atunci cÃ¢nd plÄƒnuieÈ™ti sÄƒ emigrezi.',
+    'Emigrarea reprezintă un pas important în viața oricărei persoane, aducând cu sine schimbări semnificative în toate aspectele vieții, inclusiv în ceea ce privește protecția financiară. Alegerea unei asigurări de viață adecvate este esențială pentru a-ți proteja pe tine și pe cei dragi, mai ales atunci când te muți permanent în altă țară. Un astfel de plan financiar te poate ajuta să faci față provocărilor viitoare și să te asiguri că cei care depind de tine vor avea sprijinul necesar în cazul unui eveniment neprevăzut. În acest articol, vom explora cum să alegi cea mai bună asigurare de viață pentru situația ta specifică, atunci când plănuiești să emigrezi.',
   toc_items: [
     {
       href: '#important-asigurare-emigrare',
-      title: 'De ce este important sÄƒ ai o asigurare de viaÈ›Äƒ dacÄƒ emigrezi'
+      title: 'De ce este important să ai o asigurare de viață dacă emigrezi'
     },
     {
       href: '#tipuri-asigurari-emigranti',
-      title: 'Tipuri de asigurÄƒri de viaÈ›Äƒ potrivite pentru emigranÈ›i'
+      title: 'Tipuri de asigurări de viață potrivite pentru emigranți'
     },
     {
       href: '#factori-alegere-asigurare',
       title:
-        'Ce trebuie sÄƒ iei Ã®n considerare la alegerea unei asigurÄƒri de viaÈ›Äƒ pentru emigrare'
+        'Ce trebuie să iei în considerare la alegerea unei asigurări de viață pentru emigrare'
     },
     {
       href: '#aspecte-legale-fiscale',
-      title: 'Aspecte legale È™i fiscale importante'
+      title: 'Aspecte legale și fiscale importante'
     },
     {
       href: '#recomandari-asigurari-strainatate',
       title:
-        'RecomandÄƒri pentru alegerea unei asigurÄƒri de viaÈ›Äƒ Ã®n strÄƒinÄƒtate'
+        'Recomandări pentru alegerea unei asigurări de viață în străinătate'
     }
   ],
   content_sections: [
     {
       id: 'important-asigurare-emigrare',
       heading:
-        'De ce este important sÄƒ ai o asigurare de viaÈ›Äƒ dacÄƒ emigrezi',
+        'De ce este important să ai o asigurare de viață dacă emigrezi',
       content:
-        'CÃ¢nd te muÈ›i Ã®n altÄƒ È›arÄƒ, existÄƒ numeroase aspecte pe care trebuie sÄƒ le iei Ã®n considerare, iar protecÈ›ia financiarÄƒ este unul dintre ele. O asigurare de viaÈ›Äƒ nu doar cÄƒ oferÄƒ liniÈ™te sufleteascÄƒ, ci asigurÄƒ È™i securitatea financiarÄƒ a familiei tale, Ã®n special Ã®n faÈ›a incertitudinii asociate cu viaÈ›a Ã®ntr-o È›arÄƒ nouÄƒ.|<strong>Beneficiile unei asigurÄƒri de viaÈ›Äƒ Ã®n contextul emigrÄƒrii:</strong>',
+        'Când te muți în altă țară, există numeroase aspecte pe care trebuie să le iei în considerare, iar protecția financiară este unul dintre ele. O asigurare de viață nu doar că oferă liniște sufletească, ci asigură și securitatea financiară a familiei tale, în special în fața incertitudinii asociate cu viața într-o țară nouă.|<strong>Beneficiile unei asigurări de viață în contextul emigrării:</strong>',
       lists: [
         {
           items: [
-            '<strong>SiguranÈ›Äƒ pentru familia ta</strong>: OferÄƒ suport financiar familiei tale Ã®n cazul unui eveniment neaÈ™teptat.',
-            '<strong>ProtecÈ›ia Ã®mpotriva fluctuaÈ›iilor economice</strong>: AsigurÄƒrile de viaÈ›Äƒ te pot proteja de instabilitatea economicÄƒ din È›ara gazdÄƒ.',
-            '<strong>Accesibilitatea resurselor financiare</strong>: Beneficiarii tÄƒi pot folosi suma asiguratÄƒ pentru a acoperi costurile de trai sau pentru alte cheltuieli importante.'
+            '<strong>Siguranță pentru familia ta</strong>: Oferă suport financiar familiei tale în cazul unui eveniment neașteptat.',
+            '<strong>Protecția împotriva fluctuațiilor economice</strong>: Asigurările de viață te pot proteja de instabilitatea economică din țara gazdă.',
+            '<strong>Accesibilitatea resurselor financiare</strong>: Beneficiarii tăi pot folosi suma asigurată pentru a acoperi costurile de trai sau pentru alte cheltuieli importante.'
           ]
         }
       ]
     },
     {
       id: 'tipuri-asigurari-emigranti',
-      heading: 'Tipuri de asigurÄƒri de viaÈ›Äƒ potrivite pentru emigranÈ›i',
+      heading: 'Tipuri de asigurări de viață potrivite pentru emigranți',
       content:
-        'Alegerea tipului de <a href="https://www.asigurari.ro/asigurare/life"><strong>asigurare de viaÈ›Äƒ</strong></a> potrivitÄƒ pentru tine depinde de nevoile È™i situaÈ›ia ta financiarÄƒ. Atunci cÃ¢nd emigrezi, trebuie sÄƒ iei Ã®n considerare ce tip de poliÈ›Äƒ se potriveÈ™te cel mai bine circumstanÈ›elor tale.|<strong>ExistÄƒ mai multe tipuri de asigurÄƒri de viaÈ›Äƒ pe care le poÈ›i alege:</strong>',
+        'Alegerea tipului de <a href="https://www.asigurari.ro/asigurare/life"><strong>asigurare de viață</strong></a> potrivită pentru tine depinde de nevoile și situația ta financiară. Atunci când emigrezi, trebuie să iei în considerare ce tip de poliță se potrivește cel mai bine circumstanțelor tale.|<strong>Există mai multe tipuri de asigurări de viață pe care le poți alege:</strong>',
       lists: [
         {
           items: [
-            '<strong>Asigurare de viaÈ›Äƒ temporarÄƒ (termen fix)</strong>: OferÄƒ acoperire pentru o perioadÄƒ specificatÄƒ (de exemplu, 10, 20 sau 30 de ani) È™i este de obicei mai accesibilÄƒ ca preÈ›.',
-            '<strong>Asigurare de viaÈ›Äƒ permanentÄƒ</strong>: Include poliÈ›e precum asigurarea de viaÈ›Äƒ â€žwhole lifeâ€ sau â€žuniversal lifeâ€, care oferÄƒ acoperire pe viaÈ›Äƒ È™i pot include un component de investiÈ›ie.',
-            '<strong>AsigurÄƒri internaÈ›ionale de viaÈ›Äƒ</strong>: PoliÈ›e special concepute pentru expaÈ›i È™i emigranÈ›i, care pot fi valabile Ã®n diferite È›Äƒri È™i adaptate reglementÄƒrilor internaÈ›ionale.'
+            '<strong>Asigurare de viață temporară (termen fix)</strong>: Oferă acoperire pentru o perioadă specificată (de exemplu, 10, 20 sau 30 de ani) și este de obicei mai accesibilă ca preț.',
+            '<strong>Asigurare de viață permanentă</strong>: Include polițe precum asigurarea de viață „whole life” sau „universal life”, care oferă acoperire pe viață și pot include un component de investiție.',
+            '<strong>Asigurări internaționale de viață</strong>: Polițe special concepute pentru expați și emigranți, care pot fi valabile în diferite țări și adaptate reglementărilor internaționale.'
           ]
         }
       ],
@@ -79,30 +79,30 @@ const articleData: BlogArticleData = {
     {
       id: 'factori-alegere-asigurare',
       heading:
-        'Ce trebuie sÄƒ iei Ã®n considerare la alegerea unei asigurÄƒri de viaÈ›Äƒ pentru emigrare',
+        'Ce trebuie să iei în considerare la alegerea unei asigurări de viață pentru emigrare',
       content:
-        'CÃ¢nd cauÈ›i o asigurare de viaÈ›Äƒ care sÄƒ acopere nevoile tale Ã®n noua È›arÄƒ, este esenÈ›ial sÄƒ iei Ã®n calcul mai mulÈ›i factori. AceÈ™ti factori Ã®È›i vor influenÈ›a decizia È™i te vor ajuta sÄƒ identifici cea mai bunÄƒ soluÈ›ie pentru tine È™i familia ta.|<strong>Factori de luat Ã®n considerare:</strong>',
+        'Când cauți o asigurare de viață care să acopere nevoile tale în noua țară, este esențial să iei în calcul mai mulți factori. Acești factori îți vor influența decizia și te vor ajuta să identifici cea mai bună soluție pentru tine și familia ta.|<strong>Factori de luat în considerare:</strong>',
       lists: [
         {
           items: [
-            '<strong>Valabilitatea poliÈ›ei Ã®n strÄƒinÄƒtate</strong>: AsigurÄƒ-te cÄƒ poliÈ›a ta actualÄƒ este valabilÄƒ Ã®n È›ara Ã®n care plÄƒnuieÈ™ti sÄƒ emigrezi sau cÄƒ poÈ›i transfera beneficiile unei poliÈ›e naÈ›ionale.',
-            '<strong>Moneda Ã®n care este exprimatÄƒ poliÈ›a</strong>: Este important sÄƒ optezi pentru o poliÈ›Äƒ care este exprimatÄƒ Ã®n moneda localÄƒ a È›Äƒrii gazdÄƒ sau Ã®ntr-o monedÄƒ stabilÄƒ, cum ar fi euro sau dolarul american.',
-            '<strong>Acoperirea specificÄƒ regiunii</strong>: VerificÄƒ dacÄƒ poliÈ›a oferÄƒ protecÈ›ie Ã®mpotriva riscurilor specifice regiunii, cum ar fi condiÈ›iile climatice sau riscurile de sÄƒnÄƒtate unice.'
+            '<strong>Valabilitatea poliței în străinătate</strong>: Asigură-te că polița ta actuală este valabilă în țara în care plănuiești să emigrezi sau că poți transfera beneficiile unei polițe naționale.',
+            '<strong>Moneda în care este exprimată polița</strong>: Este important să optezi pentru o poliță care este exprimată în moneda locală a țării gazdă sau într-o monedă stabilă, cum ar fi euro sau dolarul american.',
+            '<strong>Acoperirea specifică regiunii</strong>: Verifică dacă polița oferă protecție împotriva riscurilor specifice regiunii, cum ar fi condițiile climatice sau riscurile de sănătate unice.'
           ]
         }
       ]
     },
     {
       id: 'aspecte-legale-fiscale',
-      heading: 'Aspecte legale È™i fiscale importante',
+      heading: 'Aspecte legale și fiscale importante',
       content:
-        'Un aspect adesea ignorat, dar foarte important, atunci cÃ¢nd alegi o asigurare de viaÈ›Äƒ pentru emigrare, sunt reglementÄƒrile legale È™i fiscale. Fiecare È›arÄƒ are propriile legi Ã®n ceea ce priveÈ™te impozitarea beneficiilor de asigurare È™i transferul de fonduri.|<strong>Aspecte fiscale È™i legale de reÈ›inut:</strong>',
+        'Un aspect adesea ignorat, dar foarte important, atunci când alegi o asigurare de viață pentru emigrare, sunt reglementările legale și fiscale. Fiecare țară are propriile legi în ceea ce privește impozitarea beneficiilor de asigurare și transferul de fonduri.|<strong>Aspecte fiscale și legale de reținut:</strong>',
       lists: [
         {
           items: [
-            '<strong>Impozitarea beneficiilor</strong>: VerificÄƒ dacÄƒ beneficiile poliÈ›ei sunt scutite de taxe Ã®n È›ara gazdÄƒ sau dacÄƒ se aplicÄƒ vreo formÄƒ de impozitare.',
-            '<strong>Drepturile beneficiarilor</strong>: AsigurÄƒ-te cÄƒ beneficiarii pe care Ã®i numeÈ™ti vor putea accesa uÈ™or beneficiile, chiar È™i Ã®n caz de schimbÄƒri legislative.',
-            '<strong>Clauzele de rezidenÈ›Äƒ</strong>: Multe asigurÄƒri au condiÈ›ii specifice privind rezidenÈ›a titularului. DacÄƒ te muÈ›i frecvent Ã®ntre È›Äƒri, o asigurare internaÈ›ionalÄƒ ar putea fi mai potrivitÄƒ.'
+            '<strong>Impozitarea beneficiilor</strong>: Verifică dacă beneficiile poliței sunt scutite de taxe în țara gazdă sau dacă se aplică vreo formă de impozitare.',
+            '<strong>Drepturile beneficiarilor</strong>: Asigură-te că beneficiarii pe care îi numești vor putea accesa ușor beneficiile, chiar și în caz de schimbări legislative.',
+            '<strong>Clauzele de rezidență</strong>: Multe asigurări au condiții specifice privind rezidența titularului. Dacă te muți frecvent între țări, o asigurare internațională ar putea fi mai potrivită.'
           ]
         }
       ]
@@ -110,21 +110,21 @@ const articleData: BlogArticleData = {
     {
       id: 'recomandari-asigurari-strainatate',
       heading:
-        'RecomandÄƒri pentru alegerea unei asigurÄƒri de viaÈ›Äƒ Ã®n strÄƒinÄƒtate',
+        'Recomandări pentru alegerea unei asigurări de viață în străinătate',
       content:
-        'Alegerea unei asigurÄƒri de viaÈ›Äƒ atunci cÃ¢nd emigrezi poate pÄƒrea complicatÄƒ, dar urmarea unor recomandÄƒri clare poate simplifica procesul È™i te poate ajuta sÄƒ gÄƒseÈ™ti soluÈ›ia optimÄƒ.|<strong>Sfaturi utile:</strong>',
+        'Alegerea unei asigurări de viață atunci când emigrezi poate părea complicată, dar urmarea unor recomandări clare poate simplifica procesul și te poate ajuta să găsești soluția optimă.|<strong>Sfaturi utile:</strong>',
       lists: [
         {
           items: [
-            '<strong>ConsultÄƒ un specialist Ã®n asigurÄƒri internaÈ›ionale</strong>: Un expert poate oferi sfaturi personalizate È™i poate verifica compatibilitatea poliÈ›ei cu legislaÈ›ia din È›ara gazdÄƒ.',
-            '<strong>ComparÄƒ diferite oferte</strong>: UtilizeazÄƒ resurse online sau contacteazÄƒ brokeri specializaÈ›i pentru a compara preÈ›urile È™i beneficiile diferitelor poliÈ›e.',
-            '<strong>OpteazÄƒ pentru o poliÈ›Äƒ flexibilÄƒ</strong>: Alege o poliÈ›Äƒ care poate fi ajustatÄƒ pe mÄƒsurÄƒ ce nevoile tale se schimbÄƒ sau dacÄƒ te muÈ›i Ã®n altÄƒ È›arÄƒ.',
-            '<strong>VerificÄƒ recenziile</strong>: Opiniile altor emigranÈ›i despre asigurÄƒrile de viaÈ›Äƒ pot oferi o perspectivÄƒ valoroasÄƒ asupra calitÄƒÈ›ii serviciilor oferite de o anumitÄƒ companie.'
+            '<strong>Consultă un specialist în asigurări internaționale</strong>: Un expert poate oferi sfaturi personalizate și poate verifica compatibilitatea poliței cu legislația din țara gazdă.',
+            '<strong>Compară diferite oferte</strong>: Utilizează resurse online sau contactează brokeri specializați pentru a compara prețurile și beneficiile diferitelor polițe.',
+            '<strong>Optează pentru o poliță flexibilă</strong>: Alege o poliță care poate fi ajustată pe măsură ce nevoile tale se schimbă sau dacă te muți în altă țară.',
+            '<strong>Verifică recenziile</strong>: Opiniile altor emigranți despre asigurările de viață pot oferi o perspectivă valoroasă asupra calității serviciilor oferite de o anumită companie.'
           ]
         }
       ],
       additional_content:
-        'Mutarea Ã®n altÄƒ È›arÄƒ este o decizie majorÄƒ care vine cu multe responsabilitÄƒÈ›i, inclusiv asigurarea protecÈ›iei financiare pentru tine È™i familia ta. Alegerea unei asigurÄƒri de viaÈ›Äƒ adaptate nevoilor de emigrare este un pas esenÈ›ial pentru a-È›i asigura liniÈ™tea sufleteascÄƒ È™i siguranÈ›a financiarÄƒ pe termen lung. Fie cÄƒ alegi o poliÈ›Äƒ temporarÄƒ sau una permanentÄƒ, asigurÄƒ-te cÄƒ acoperÄƒ toate nevoile specifice circumstanÈ›elor tale È™i cÄƒ este valabilÄƒ Ã®n È›ara de destinaÈ›ie.|Pentru a gÄƒsi cea mai potrivitÄƒ asigurare de viaÈ›Äƒ È™i pentru a beneficia de asistenÈ›Äƒ, viziteazÄƒ <a href="https://www.asigurari.ro"><strong>asigurari.ro</strong></a>. Cu o gamÄƒ variatÄƒ de opÈ›iuni È™i un serviciu rapid È™i eficient, Ã®È›i poÈ›i proteja viitorul oriunde Ã®n lume.'
+        'Mutarea în altă țară este o decizie majoră care vine cu multe responsabilități, inclusiv asigurarea protecției financiare pentru tine și familia ta. Alegerea unei asigurări de viață adaptate nevoilor de emigrare este un pas esențial pentru a-ți asigura liniștea sufletească și siguranța financiară pe termen lung. Fie că alegi o poliță temporară sau una permanentă, asigură-te că acoperă toate nevoile specifice circumstanțelor tale și că este valabilă în țara de destinație.|Pentru a găsi cea mai potrivită asigurare de viață și pentru a beneficia de asistență, vizitează <a href="https://www.asigurari.ro"><strong>asigurari.ro</strong></a>. Cu o gamă variată de opțiuni și un serviciu rapid și eficient, îți poți proteja viitorul oriunde în lume.'
     }
   ],
   conclusion: ''
