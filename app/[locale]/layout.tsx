@@ -30,22 +30,18 @@ export default async function LocaleLayout({
   const messages = await getMessages()
 
   return (
-    <html lang={locale}>
-      <body className="antialiased">
-        <NextIntlClientProvider messages={messages}>
-          <SmoothScrollProvider>
-            <div id="container" className="!w-full !max-w-none !m-0 pt-24">
-              <Header />
-              <div id="page" className="!bg-gray-50 !w-full !max-w-none !m-0">
-                {children}
-              </div>
-              <ScrollToTop />
-              <Footer />
-              <CookiesBanner />
-            </div>
-          </SmoothScrollProvider>
-        </NextIntlClientProvider>
-      </body>
-    </html>
+    <NextIntlClientProvider messages={messages}>
+      <SmoothScrollProvider>
+        <div id="container" className="!w-full !max-w-none !m-0 pt-24">
+          <Header />
+          <div id="page" className="!bg-gray-50 !w-full !max-w-none !m-0">
+            {children}
+          </div>
+          <ScrollToTop />
+          <Footer />
+          <CookiesBanner />
+        </div>
+      </SmoothScrollProvider>
+    </NextIntlClientProvider>
   )
 }
