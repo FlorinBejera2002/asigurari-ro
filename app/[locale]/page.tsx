@@ -21,8 +21,8 @@ export default async function HomePage() {
       <OurSystemSection />
       <OurStorySection />
 
-      <h2 className="sr-only">{t('meta.h2')}</h2>
-      <h3 className="sr-only">{t('meta.h3')}</h3>
+      {/* <h2 className="sr-only">{t('meta.h2')}</h2>
+      <h3 className="sr-only">{t('meta.h3')}</h3> */}
 
       <ArticleSection />
 
