@@ -309,6 +309,16 @@ export default function Footer() {
                   Blog
                 </Link>
               </li>
+
+              <li className="mb-1">
+                <Link
+                  href="/asigurari/insurer"
+                  className="text-gray-300 text-sm no-underline md:hover:underline md:hover:text-blue-400 md:text-base transition-colors duration-300"
+                >
+                  Asiguratorii
+                </Link>
+              </li>
+
               <li className="mb-1">
                 <Link
                   href="/termeni-conditii"
