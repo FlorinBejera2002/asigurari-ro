@@ -718,235 +718,522 @@ export const accidentsArticles: BlogArticle[] = [
 export const commonArticles: BlogArticle[] = [
   {
     slug: '10-intrebari-pe-care-sa-le-adresezi-inainte-de-a-cumpara-o-asigurare',
-    title:
-      '10 Întrebări pe care să le adresezi înainte de a cumpăra o asigurare',
-    description:
-      'Ghid esențial cu cele mai importante întrebări pe care trebuie să le pui înainte de a alege o asigurare.',
-    image: '/images/asigurari/blog/common/broker-discutand-cu-un-client.webp',
+    title: '10 Întrebări pe care să le Adresezi înainte de a Cumpăra o Asigurare',
+    description: 'Vrei sa alegi asigurarea potrivita? ? Afla cele mai importante 10 intrebari pe care sa le adresezi inainte de a semna o polita ➤ Descopera sfaturi utile',
+    image: '/images/asigurari/blog/common/barbati-discutand.webp',
+    system: 'common'
+  },
+  {
+    slug: 'acte-necesare-pentru-inmatricularea-unei-masini-electrice-ghid-complet',
+    title: 'Acte necesare pentru înmatricularea unei mașini electrice în 2025 – Ghid complet',
+    description: 'Ai cumparat o masina electrica noua? ➤ Afla ce acte sunt necesare pentru inmatriculare in 2025, in Romania sau din UE',
+    image: '/images/asigurari/blog/common/barbat-semneaza-documente.webp',
+    system: 'common'
+  },
+  {
+    slug: 'actele-obligatorii-in-masina-ce-documente-trebuie-sa-aiba-mereu-soferii-la-volan',
+    title: 'Actele obligatorii în mașină – Ce documente trebuie să aibă mereu șoferii la volan în 2025',
+    description: 'Afla care sunt actele obligatorii pe care trebuie sa le ai mereu in masina conform legii – permis auto, talon, asigurare RCA valabila, buletin – si de ce sunt importante ➤ Ghid pentru soferi cu sfaturi practice ca a eviti amenzile si sa conduci linistit',
+    image: '/images/asigurari/blog/common/teanc-de-documente.webp',
+    system: 'common'
+  },
+  {
+    slug: 'alunecare-de-teren-cauze-metode-de-prevenire-si-gestionarea-riscurilor',
+    title: 'Alunecare de teren - cauze, metode de prevenire și gestionarea riscurilor',
+    description: 'Afla cauzele alunecarilor de teren, impactul acestora asupra comunitaților si solutiile tehnice pentru prevenire ➤ Invata cum sa protejezi locuinta prin monitorizare si asigurare impotriva riscurilor geologice',
+    image: '/images/asigurari/blog/common/alunecare-de-teren.webp',
+    system: 'common'
+  },
+  {
+    slug: 'amenzi-si-puncte-de-penalizare-pentru-soferii-din-romania',
+    title: 'Amenzi și puncte de penalizare în 2025 pentru șoferii din România',
+    description: 'Afla totul despre noile amenzi auto 2025 si punctele de penalizare pentru soferii din Romania ➤ Descopera modificarile Codului Rutier 2025 si cum te afecteaza',
+    image: '/images/asigurari/blog/common/masina-oprita-de-politist.webp',
+    system: 'common'
+  },
+  {
+    slug: 'asigurare-facultativa-tipuri-principale-si-beneficii-esentiale-pentru-protectia-ta',
+    title: 'Asigurare facultativă - tipuri principale și beneficii esențiale pentru protecția ta',
+    description: 'Afla ce este asigurarea facultativa, cum te protejeaza si care sunt principalele tipuri disponibile ➤ Ghid complet pentru alegerea politei potrivite',
+    image: '/images/asigurari/blog/common/strangere-de-mana.webp',
+    system: 'common'
+  },
+  {
+    slug: 'asigurarea-ca-bonus-de-angajare-de-ce-tot-mai-multi-angajatori-ofera-asigurari-private',
+    title: 'Asigurarea ca Bonus de Angajare: De ce tot mai mulți angajatori oferă asigurări private',
+    description: 'Afla cum acest beneficiu reduce absenteismul si creste loialitatea angajatilor➤ Descopera avantajele pentru angajati și angajatori',
+    image: '/images/asigurari/blog/common/strangere-de-mana-angajare.webp',
+    system: 'common'
+  },
+  {
+    slug: 'asigurari-in-era-covid-19-ce-s-a-schimbat-si-cum-te-afecteaza',
+    title: 'Asigurări în era COVID-19: Ce s-a schimbat și cum te afectează',
+    description: 'Afla cum a influentat pandemia COVID-19 industria asigurarilor ➤ Descopera ce modificari au avut loc in asigurarile de sanatate, viata si calatorie si cum te pot proteja in fata riscurilor viitoare',
+    image: '/images/asigurari/blog/common/medic-avand-consultatie-online.webp',
     system: 'common'
   },
   {
     slug: 'asigurator-vs-broker-care-este-diferenta-si-pe-cine-sa-alegi',
-    title: 'Asigurator vs Broker: Care este diferența și pe cine să alegi',
-    description:
-      'Ghid complet despre diferențele dintre asigurator și broker și cum să alegi varianta potrivită pentru nevoile tale.',
-    image: '/images/asigurari/blog/common/barbat-si-femeie-discutand.webp',
+    title: 'Asigurator vs. Broker: Care este diferența și pe cine să alegi?',
+    description: 'Afla diferenta dintre asigurator si broker de asigurari ➤ Descopera care sunt avantajele si dezavantajele colaborarii cu fiecare',
+    image: '/images/asigurari/blog/common/broker-discutand-cu-un-client.webp',
+    system: 'common'
+  },
+  {
+    slug: 'bucuresti-istanbul-cu-masina-ce-distanta-este-intre-bucuresti-si-istanbul-si-ce-traseu-sa-urmezi-pentru-o-calatorie-fara-griji',
+    title: 'București – Istanbul cu mașina: ce distanță este între București și Istanbul și ce traseu să urmezi pentru o călătorie fără griji?',
+    description: 'Afla tot ce trebuie sa stii despre calatoria cu masina de la Bucuresti la Istanbul ➤ Trasee recomandate, distanta, taxe, documente necesare si sfaturi pentru un drum fara griji',
+    image: '/images/asigurari/blog/common/bucuresti-istanbul-masina.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cand-este-momentul-potrivit-sa-revizuiesti-si-sa-iti-actualizezi-asigurarile',
+    title: 'Când Este Momentul Potrivit să Revizuiești și să Îți Actualizezi Asigurările?',
+    description: 'Descopera care sunt momentele cheie pentru actualizarea politelor ➤ Cum sa optimizezi costurile si sa ai acoperirea potrivita in orice etapa a vietii',
+    image: '/images/asigurari/blog/common/teanc-de-polite-expirate.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cand-greselile-mici-pot-costa-milioane-de-ce-asigurarea-pentru-societati-comerciale-e-indispensabila',
+    title: 'Când greșelile mici pot costa milioane: De ce asigurarea pentru societăți comerciale e indispensabilă',
+    description: 'O eroare minora poate avea un impact urias asupra afacerii tale ➤ Descopera cum asigurarea pentru societati comerciale te protejeaza de litigii, accidente si pierderi financiare',
+    image: '/images/asigurari/blog/common/fir-desfacut-de-la-nasture.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cartea-verde-a-masinii-ghid-complet-pentru-asigurarea-auto-internationala',
+    title: 'Cartea verde a mașinii - Ghid complet pentru asigurarea auto internațională',
+    description: 'Pleci cu masina in strainatate? ➤ Afla ce este cartea verde, cum o obtii, unde este valabila si ce trebuie sa faci in caz de accident',
+    image: '/images/asigurari/blog/common/femeie-ingrijorata-vorbind-la-telefon.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cat-de-sigura-este-tunisia-impresii-pareri-si-sfaturi-de-calatorie-pentru-o-vacanta-linistita',
+    title: 'Cât de sigură este Tunisia? - impresii, părări și sfaturi de călătorie pentru o vacanță liniștită',
+    description: 'Descopera cat de sigura este Tunisia pentru vacante si cum sa te pregatesti pentru o calatorie fara griji ➤ Afla sfaturi utile, masuri de precautie si cele mai sigure destinatii turistice din Tunisia',
+    image: '/images/asigurari/blog/common/amfiteatrul-el-jem.webp',
+    system: 'common'
+  },
+  {
+    slug: 'ce-este-fulgerul-si-cum-se-formeaza-totul-despre-fulgere-si-masurile-de-protectie',
+    title: 'Ce este fulgerul și cum se formează? Totul despre fulgere și măsurile de protecție',
+    description: 'Afla ce este fulgerul, cum se formeaza si ce diferente exista fata de trasnet ➤ Descopera tipurile de fulgere, puterea lor si masurile de siguranta esentiale in timpul furtunilor',
+    image: '/images/asigurari/blog/common/fulger-lung-ramificat.webp',
+    system: 'common'
+  },
+  {
+    slug: 'ce-este-norma-de-poluare-auto-si-cum-influenteaza-impozitul-si-asigurarea',
+    title: 'Ce este norma de poluare auto și cum influențează impozitul și asigurarea în 2025',
+    description: 'Vrei sa stii ce inseamna norma de poluare a masinii tale? ➤ Afla cum afecteaza impozitul auto si costul asigurarii RCA sau CASCO in 2025 si ce trebuie sa verifici inainte sa cumperi o masina',
+    image: '/images/asigurari/blog/common/masina-verde.webp',
+    system: 'common'
+  },
+  {
+    slug: 'ce-faci-in-caz-de-grindina-ghid-practic-de-protectie',
+    title: 'Ce faci în caz de grindină? Ghid practic de protecție',
+    description: 'Afla ce trebuie sa faci în caz de grindina pentru a-ti proteja locuinta, masina si culturile agricole ➤ Ghid complet cu masuri preventive, pasi in timpul furtunii si actiuni dupa eveniment',
+    image: '/images/asigurari/blog/common/grindina.webp',
+    system: 'common'
+  },
+  {
+    slug: 'ce-inseamna-asigurarea-de-raspundere-civila-si-cum-te-poate-proteja',
+    title: 'Ce înseamnă asigurarea de răspundere civilă și cum te poate proteja?',
+    description: 'Descopera ce este asigurarea de raspundere civila ➤ Afla ce tipuri exista, cum functioneaza si cum iti ofera protectie financiara in fata daunelor cauzate altora',
+    image: '/images/asigurari/blog/common/scriere-in-document.webp',
+    system: 'common'
+  },
+  {
+    slug: 'ce-riscuri-acopera-asigurarea-de-garantii-in-proiectele-mari',
+    title: 'Ce riscuri acoperă asigurarea de garanții în proiectele mari',
+    description: 'Afla cum asigurarea de garantii protejeaza beneficiarii si contractorii impotriva intarzierilor, insolventei si nerealizarii lucrarilor ➤ Vezi cum te poate ajuta',
+    image: '/images/asigurari/blog/common/proiect-organizare-de-santier.webp',
+    system: 'common'
+  },
+  {
+    slug: 'ce-trebuie-sa-stii-despre-clasele-de-risc-seismic',
+    title: 'Ce trebuie să știi despre clasele de risc seismic U1, U2, U3 și Rs1–Rs4 + opțiuni de asigurare',
+    description: 'Afla ce reprezinta clasele de risc seismic U1, U2, U3 si Rs1–Rs4 ➤ Cum iti afecteaza locuinta, creditul sau asigurarea ➤ Ce masuri poti lua pentru consolidare si protectie',
+    image: '/images/asigurari/blog/common/harta-lumii.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cele-mai-frecvente-riscuri-pentru-imm-uri-si-cum-sa-le-reduci-prin-asigurari',
+    title: 'Cele mai frecvente riscuri pentru IMM-uri și cum să le reduci prin asigurări',
+    description: 'IMM-urile se confrunta cu riscuri financiare, operationale si cibernetice ➤Afla cum asigurarile te pot proteja de pierderi si cum sa iti securizezi afacerea',
+    image: '/images/asigurari/blog/common/magazin-mic-la-rasarit.webp',
+    system: 'common'
+  },
+  {
+    slug: 'coasigurat-in-sistemul-de-sanatate-ce-presupune-acest-statut',
+    title: 'Coasigurat in sistemul de sanatate - ce presupune acest statut',
+    description: 'Afla cine poate deveni coasigurat ➤ Ce conditii trebuie indeplinite ➤ Ce documente sunt necesare ➤ Care sunt beneficiile si limitarile acestui statut',
+    image: '/images/asigurari/blog/common/coasigurat-medic.webp',
+    system: 'common'
+  },
+  {
+    slug: 'concediul-medical-conditii-de-acordare-si-cum-se-plateste',
+    title: 'Concediul Medical: Condiții de Acordare și Cum se Plătește',
+    description: 'Ai nevoie de concediu medical? ➤ Afla ce conditii trebuie sa indeplinesti ➤ Cum se plateste indemnizatia ➤ Ce rol joaca asigurarea de sanatate in acoperirea costurilor',
+    image: '/images/asigurari/blog/common/laptop-stins.webp',
+    system: 'common'
+  },
+  {
+    slug: 'condus-economic-cum-sa-reduci-consumurile-si-sa-iti-protejezi-bugetul',
+    title: 'Condus Economic: Cum să Reduci Consumurile și să Îți Protejezi Bugetul',
+    description: 'Condus economic ➤ Tehnici pentru reducerea consumului ➤ Intretinerea masinii ➤ Alegerea combustibilului si a asigurarii potrivite',
+    image: '/images/asigurari/blog/common/masina-la-statia-de-alimentare.webp',
+    system: 'common'
+  },
+  {
+    slug: 'contractul-de-asigurare-tot-ce-trebuie-sa-stii-despre-prima-de-asigurare-si-conditiile-contractuale',
+    title: 'Contractul de asigurare: Tot ce trebuie să știi despre prima de asigurare și condițiile contractuale',
+    description: 'Afla ce este contractul de asigurare ➤ Cum functioneaza prima, care sunt conditiile legale, obligatiile si drepturile partilor',
+    image: '/images/asigurari/blog/common/semnare-contract-asigurare.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-functioneaza-asigurarile-de-garantii-pentru-afaceri-tot-ce-trebuie-sa-stii',
+    title: 'Cum funcționează asigurările de garanții pentru afaceri: Tot ce trebuie să știi',
+    description: 'Ai o afacere si vrei sa protejezi contractele importante? ➤ Afla cum functioneaza asigurarile de garantii, ce riscuri acopera si cum iti pot creste credibilitatea in fata partenerilor',
+    image: '/images/asigurari/blog/common/strangere-de-mana-afacere.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-sa-asiguri-o-livrare-fara-probleme-solutii-pentru-casele-de-expeditii',
+    title: 'Cum să asiguri o livrare fără probleme: Soluții pentru casele de expediții',
+    description: 'Descopera cum asigurarea pentru casele de expeditii iti protejeaza afacerea, marfurile si reputatia ➤ Livrari sigure, fara pierderi si intarzieri in transport',
+    image: '/images/asigurari/blog/common/depozit-de-marfa.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-sa-evaluezi-corect-ce-tipuri-de-asigurari-ai-nevoie-in-functie-de-stilul-tau-de-viata',
+    title: 'Cum să Evaluezi Corect Ce Tipuri de Asigurări Ai Nevoie În Funcție de Stilul Tău de Viață',
+    description: 'Ai asigurarile potrivite stilului tau de viata? ➤ Descopera ce tipuri de protectie sunt esentiale pentru calatori, familii si profesionisti ➤ Cum sa alegi politele corecte',
+    image: '/images/asigurari/blog/common/familie-aranjand-bagaje-in-masina.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-sa-iti-protejezi-bunurile-de-valoare-in-timpul-sarbatorilor-sfaturi-de-securitate',
+    title: 'Cum să îți protejezi bunurile de valoare în timpul sărbătorilor: Sfaturi de securitate',
+    description: 'Afla masuri eficiente de securitate pentru protejarea locuintei ➤ De ce o asigurare este esentiala',
+    image: '/images/asigurari/blog/common/living-room-decorat-pentru-sarbatori.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-sa-iti-protejezi-echipamentele-in-santierele-de-constructii',
+    title: 'Cum să îți protejezi echipamentele în șantierele de construcții',
+    description: 'Evita pierderile cauzate de furt, vandalism sau accidente pe șantier ➤ Afla ce solutii de protectie si asigurari iti pot securiza utilajele si lucrarile de constructii',
+    image: '/images/asigurari/blog/common/echipamente-de-lucru.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-sa-iti-protejezi-fermele-impotriva-riscurilor-naturale',
+    title: 'Cum să îți protejezi fermele împotriva riscurilor naturale',
+    description: 'Ferma ta este expusa la riscuri precum seceta, grindina sau bolile animalelor? ➤ Afla cum o asigurare agricola te poate proteja de pierderi financiare si iti poate asigura continuitatea afacerii',
+    image: '/images/asigurari/blog/common/plantatie-de-porumb.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-sa-iti-protejezi-investitiile-in-energia-regenerabila-solutii-pentru-centrale-fotovoltaice-si-eoliene',
+    title: 'Cum să îți protejezi investițiile în energia regenerabilă: Soluții pentru centrale fotovoltaice și eoliene',
+    description: 'Ai o centrala fotovoltaica sau un parc eolian? ➤ Afla ce riscuri ameninta investitia ta si cum te pot proteja asigurarile dedicate sectorului energetic verde',
+    image: '/images/asigurari/blog/common/panouri-solare.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-sa-iti-protejezi-marfurile-pe-apa-sau-pe-sine-ghid-pentru-operatorii-de-transport-feroviar-si-naval',
+    title: 'Cum să îți protejezi mărfurile pe apă sau pe șine: Ghid pentru operatorii de transport feroviar și naval',
+    description: 'Transportul pe apa sau pe sine implica riscuri ➤ Afla cum asigurarile dedicate te protejeaza impotriva accidentelor, furturilor si intarzierilor',
+    image: '/images/asigurari/blog/common/marfa-pe-sine.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-sa-iti-protejezi-recolta-de-capriciile-vremii-ghid-pentru-fermieri',
+    title: 'Cum să îți protejezi recolta de capriciile vremii: Ghid pentru fermieri',
+    description: 'Fermierii se confrunta anual cu riscuri climatice precum grindina, seceta sau inundatiile ➤ Descopera cum o asigurare agricola iti poate proteja investitia si asigura continuitatea afacerii tale',
+    image: '/images/asigurari/blog/common/fermier-cu-umbrela-pe-camp.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-sa-planifici-din-timp-un-transplant-cu-celule-stem-ghid-pentru-familii',
+    title: 'Cum să planifici din timp un transplant cu celule stem: Ghid pentru familii',
+    description: 'Planifici un transplant cu celule stem? ➤ Afla pasii esentiali, cum sa alegi cel mai bun centru medical si de ce o asigurare adecvata iti poate reduce povara financiara ➤ Ghid complet pentru familii',
+    image: '/images/asigurari/blog/common/borcanel-cu-celule-stem.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-sa-ti-asiguri-confortul-la-festivaluri-asigurarea-ideala-pentru-evenimente-in-aer-liber',
+    title: 'Cum să-ți asiguri confortul la festivaluri: asigurarea ideală pentru evenimente în aer liber',
+    description: 'Mergi la un festival? ➤ Asigura-ti confortul si siguranta cu o polita de calatorie sau accidente ➤ Protectie pentru bagaje pierdute, probleme medicale si anulari neasteptate',
+    image: '/images/asigurari/blog/common/festival-noaptea.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-sa-vinzi-o-masina-ca-second-hand-pasi-si-documente-necesare',
+    title: 'Cum să vinzi o mașină ca second-hand. Pași și documente necesare',
+    description: 'Afla cum sa vinzi o masina second-hand ➤ Pasi esentiali si documente necesare pentru o tranzactie rapida si fara probleme ➤ Informatie despre transferul de proprietate si asigurarea RCA',
+    image: '/images/asigurari/blog/common/inmanare-chei.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cum-te-protejezi-financiar-cand-incepi-o-viata-pe-cont-propriu-asigurari-esentiale-pentru-tineri',
+    title: 'Cum să îți protejezi financiar când începi o viață pe cont propriu: Asigurări esențiale pentru tineri',
+    description: 'Incepi viata pe cont propriu? ➤ Afla ce asigurari sunt esentiale pentru protectia ta financiara: sanatate, accidente, locuinta si auto',
+    image: '/images/asigurari/blog/common/tanar-carand-o-cutie.webp',
+    system: 'common'
+  },
+  {
+    slug: 'cutremur-informatii-privind-siguranta-ta-si-a-locuintei-si-masuri-de-protectie',
+    title: 'Cutremur - informații privind siguranța ta și a locuinței și măsuri de protecție',
+    description: 'Afla cum sa te protejezi pe tine si locuința ta in caz de cutremur ➤ Totul despre masuri de siguranta, pregatire, avertizare timpurie si importanta asigurarii PAD si facultative',
+    image: '/images/asigurari/blog/common/fisura-in-asfalt.webp',
+    system: 'common'
+  },
+  {
+    slug: 'de-ce-managerii-buni-nu-risca-fara-o-asigurare-de-raspundere-civila',
+    title: 'De ce managerii buni nu riscă fără o asigurare de răspundere civilă',
+    description: 'Ești manager? ➤ Afla cum asigurarea de raspundere civila te protejează de litigii, sanctiuni si pierderi financiare ➤ Descopera acum cum asigurarea D&O iti ofera protectie',
+    image: '/images/asigurari/blog/common/manager-zambind.webp',
+    system: 'common'
+  },
+  {
+    slug: 'de-ce-nu-ne-protejam-impotriva-riscurilor-psihologia-din-spatele-achizitionarii-asigurarilor',
+    title: 'De ce nu ne protejăm împotriva riscurilor? Psihologia din spatele achiziționării asigurărilor',
+    description: 'Afla ce sta la baza reticentei noastre fata de asigurari ➤ Cum putem lua decizii financiare mai bune pentru viitorul nostru ➤ Descopera solutii pentru protectia ta',
+    image: '/images/asigurari/blog/common/masina-mergand-pe-drum-surpat.webp',
+    system: 'common'
+  },
+  {
+    slug: 'despagubiri-pentru-daune-cauzate-de-vecini-neasigurati-ce-poti-recupera-si-cum',
+    title: 'Despăgubiri pentru daune cauzate de vecini neasigurați – ce poți recupera și cum',
+    description: 'Ai fost afectat de o dauna provocata de vecinul tau? ➤ Afla ce despagubiri poti obtine, chiar daca el nu are asigurare ➤ Descopera ce polite te protejeaza si ce pasi trebuie sa urmezi pentru a-ti repara locuinta fara stres',
+    image: '/images/asigurari/blog/common/pardoseala-uda.webp',
+    system: 'common'
+  },
+  {
+    slug: 'fondul-de-garantare-a-asigurarilor-fga-ghid-complet-pentru-asigurati-si-beneficiari',
+    title: 'Fondul de garantare a asigurărilor (FGA): Ghid complet pentru asigurați și beneficiari',
+    description: 'Afla totul despre Fondul de Garantare a Asigurarilor (FGA) ➤ Cum functioneaza, cine poate solicita despagubiri si care sunt procedurile pentru recuperarea daunelor in cazul falimentului unui asigurator',
+    image: '/images/asigurari/blog/common/miniatura-albastra.webp',
+    system: 'common'
+  },
+  {
+    slug: 'fransiza-in-asigurari-cum-decizi-daca-sa-optezi-pentru-o-polita-cu-sau-fara-fransiza',
+    title: 'Franșiza în asigurări - cum decizi dacă să optezi pentru o poliță cu sau fără franșiză',
+    description: 'Ce este fransiza in asigurari? ➤ Afla cum functioneaza, avantajele si dezavantajele unei polite cu sau fara fransiza, pentru a lua cea mai buna decizie',
+    image: '/images/asigurari/blog/common/barbat-care-scrie.webp',
+    system: 'common'
+  },
+  {
+    slug: 'furturile-auto-o-problema-tot-mai-frecventa-ce-sisteme-antifurt-exista-si-cum-actioneaza-asigurarea-in-caz-de-paguba',
+    title: 'Furturile auto, o problemă tot mai frecventă - ce sisteme antifurt există și cum acționează asigurarea în caz de pagubă?',
+    description: 'Furturile auto sunt tot mai frecvente ➤ Afla ce sisteme antifurt iti pot proteja masina ➤ Cum functioneaza GPS trackingul ➤ Cum te despagubeste asigurarea CASCO',
+    image: '/images/asigurari/blog/common/persoana-imbracata-in-negru-forteza-usa.webp',
+    system: 'common'
+  },
+  {
+    slug: 'ghid-pentru-achizitionarea-unei-masini-second-hand-documente-necesare',
+    title: 'Ghid pentru achiziționarea unei mașini second-hand. Documente necesare',
+    description: 'Afla cum sa vinzi o masina second-hand ➤ Pasi esentiali si documente necesare pentru o tranzactie rapida si fara probleme ➤ Informatie despre transferul de proprietate si asigurarea RCA',
+    image: '/images/asigurari/blog/common/showroom-masini.webp',
+    system: 'common'
+  },
+  {
+    slug: 'ghidul-complet-pentru-alegerea-celor-mai-bune-anvelope-pentru-masina-ta',
+    title: 'Ghidul complet pentru alegerea celor mai bune anvelope pentru mașina ta',
+    description: 'Afla cum sa alegi cele mai bune anvelope pentru masina ta ➤ Descopera tipuri de anvelope, factori importanti, si sfaturi pentru intretinerea acestora',
+    image: '/images/asigurari/blog/common/set-de-patru-cauciucuri.webp',
+    system: 'common'
+  },
+  {
+    slug: 'grindina-ploi-torentiale-inundatii-tornade-seceta-si-alte-fenomene-meteo-extreme-in-romania-cum-sa-te-protejezi',
+    title: 'Grindină, ploi torențiale, inundații, tornade, secetă și alte fenomene meteo extreme în România - cum să te protejezi?',
+    description: 'Vremea devine tot mai imprevizibila: grindina, inundatii, seceta, tornade ➤ Descopera masuri simple si solutii eficiente pentru siguranta ta si a locuintei',
+    image: '/images/asigurari/blog/common/nori-intunecati-de-furtuna.webp',
+    system: 'common'
+  },
+  {
+    slug: 'inspectia-de-risc-ce-este-cum-se-realizeaza-si-rolul-sau-in-asigurari',
+    title: 'Inspecția de risc: Ce este, cum se realizează și rolul său în asigurări',
+    description: 'Afla ce este inspectia de risc, cum se desfasoara si de ce este esentiala pentru stabilirea primelor de asigurare ➤ Descopera rolul sau in prevenirea fraudelor si optimizarea acoperirii politelor',
+    image: '/images/asigurari/blog/common/inspector-de-risc.webp',
+    system: 'common'
+  },
+  {
+    slug: 'inundatii-in-romania-ghid-complet-pentru-prevenire-si-actiune',
+    title: 'Inundații în România - ghid complet pentru prevenire și acțiune',
+    description: 'Afla cum sa previi si sa actionezi in caz de inundatie in Romania ➤ Descopera cauzele, zonele cu risc ridicat, masurile de protectie si importanta asigurarii locuintei pentru a minimiza pagubele',
+    image: '/images/asigurari/blog/common/vegetatie-inundata.webp',
+    system: 'common'
+  },
+  {
+    slug: 'istoria-asigurarilor-cum-au-evoluat-politele-de-a-lungul-timpului',
+    title: 'Istoria Asigurărilor: Cum au Evoluat Polițele de-a Lungul Timpului',
+    description: 'Evolutia asigurarilor, de la originile lor antice pana in zilele noastre➤ Afla cum s-au adaptat politetele de asigurare la riscurile actuale',
+    image: '/images/asigurari/blog/common/istorie-asigurari.webp',
     system: 'common'
   },
   {
     slug: 'istoria-rca-evolutie-si-relevanta-la-nivel-global-si-in-romania',
-    title: 'Istoria RCA: Evoluție și relevanță la nivel global și în România',
-    description:
-      'Istoria asigurării RCA: evoluție globală, implementare în România și importanța sa astăzi.',
+    title: 'Istoria RCA: Evoluție și Relevanță la Nivel Global și în România',
+    description: 'Descopera istoria RCA si evolutia sa atat la nivel global, cat si in Romania ➤ Afla cum s-a dezvoltat asigurarea auto obligatorie si ce impact are asupra pietei actuale',
     image: '/images/asigurari/blog/common/evolutie-rca.webp',
     system: 'common'
   },
   {
     slug: 'masina-lovita-in-parcare-ce-trebuie-sa-faci-daca-o-gasesti-avariata-pas-cu-pas',
-    title:
-      'Mașina lovită în parcare: Ce trebuie să faci dacă o găsești avariată pas cu pas',
-    description:
-      'Ghid pas cu pas: ce să faci dacă îți găsești mașina lovită în parcare și cum să procedezi cu asigurarea.',
-    image:
-      '/images/asigurari/blog/common/masini-de-jucarie-implicate-in-accident.webp',
-    system: 'common'
-  },
-  {
-    slug: 'masinile-autonome-si-viitorul-asigurarilor-auto-cine-este-responsabil-in-caz-de-accident',
-    title:
-      'Mașinile autonome și viitorul asigurărilor auto: Cine este responsabil în caz de accident',
-    description:
-      'Analiză despre impactul mașinilor autonome asupra asigurărilor auto și chestiuni de răspundere.',
-    image: '/images/asigurari/blog/common/masina-verde.webp',
+    title: 'Mașină lovită în parcare - ce trebuie să faci dacă o găsești avariată, pas cu pas',
+    description: 'Ai gasit masina avariata in parcare? ➤ Afla pasii legali si practici pe care trebuie sa-i urmezi, cum verifici camerele, ce faci cu asigurarea si cum eviti astfel de incidente pe viitor',
+    image: '/images/asigurari/blog/common/inspector-auto.webp',
     system: 'common'
   },
   {
     slug: 'mituri-comune-despre-asigurari-ce-este-adevarat-si-ce-este-fals',
-    title: 'Mituri comune despre asigurări: Ce este adevărat și ce este fals',
-    description:
-      'Demontarea celor mai comune mituri despre asigurări și clarificarea adevărului.',
-    image: '/images/asigurari/blog/common/puzzle-cu-o-piesa-lipsa.webp',
+    title: 'Mituri Comune despre Asigurări - Ce Este Adevărat și Ce Este Fals?',
+    description: 'Asigurarile sunt inconjurate de multe mituri care pot duce la decizii gresite ➤ Afla ce este adevarat si ce este fals despre politele de asigurare',
+    image: '/images/asigurari/blog/common/nori-de-ploaie.webp',
     system: 'common'
   },
   {
     slug: 'numere-verzi-ce-sunt-cum-se-obtin-si-ce-avantaje-au-numerele-de-inmatriculare-verzi',
-    title:
-      'Numere verzi: Ce sunt, cum se obțin și ce avantaje au numerele de înmatriculare verzi',
-    description:
-      'Ghid complet despre numerele verzi de înmatriculare: obținere, avantaje și legislație.',
-    image: '/images/asigurari/blog/common/cheie-auto-cu-o-frunza-verde.webp',
+    title: 'Numere verzi - ce sunt, cum se obțin și ce avantaje au numerele de înmatriculare verzi',
+    description: 'Ai un vehicul electric? ➤ Descopera ce sunt numerele verzi, cum le obtii si avantajele pe care le ofera in trafic, parcare si taxe',
+    image: '/images/asigurari/blog/common/alimentare-cu-combustibil.webp',
     system: 'common'
   },
   {
     slug: 'organizarea-bugetului-personal-pentru-sarbatori-sfaturi-pentru-cheltuieli-inteligente',
-    title:
-      'Organizarea bugetului personal pentru sărbători: Sfaturi pentru cheltuieli inteligente',
-    description:
-      'Sfaturi practice pentru gestionarea bugetului în perioada sărbătorilor și cum să eviți cheltuielile excesive.',
-    image:
-      '/images/asigurari/blog/common/pusculita-purcelus-cu-caciula-de-mos-craciun.webp',
+    title: 'Organizarea bugetului personal pentru sărbători: Sfaturi pentru cheltuieli inteligente',
+    description: 'Vrei sa te bucuri de sarbatori fara stres financiar? ➤ Afla cum sa iti gestionezi bugetul, sa economisesti si sa iti mentii asigurarile esentiale pentru protectie maxima',
+    image: '/images/asigurari/blog/common/facturi-si-liste-de-cadouri.webp',
     system: 'common'
   },
   {
     slug: 'prima-de-asigurare-ce-trebuie-sa-stii-despre-sumele-pe-care-le-platesti-pentru-diverse-polite',
-    title:
-      'Prima de asigurare: Ce trebuie să știi despre sumele pe care le plătești pentru diverse polițe',
-    description:
-      'Ghid complet despre prima de asigurare: cum se calculează, factori de influență și cum să obții cele mai bune tarife.',
-    image: '/images/asigurari/blog/common/polita-de-asigurare.webp',
+    title: 'Prima de asigurare – ce trebuie să știi despre sumele pe care le plătești pentru diverse polițe',
+    description: 'Afla tot ce trebuie sa stii despre prima de asigurare ➤ Cum se calculeaza, ce factori o influenteaza si cum poti alege cea mai potrivita polita pentru tine',
+    image: '/images/asigurari/blog/common/masina-casa-familie.webp',
     system: 'common'
   },
   {
     slug: 'prima-masina-primele-formalitati-ce-documente-si-asigurari-iti-trebuie-cand-iti-iei-permisul',
-    title:
-      'Prima mașină, primele formalități: Ce documente și asigurări îți trebuie când îți iei permisul',
-    description:
-      'Ghid pentru șoferii începători: documente necesare, asigurări obligatorii și sfaturi pentru prima mașină.',
-    image: '/images/asigurari/blog/common/showroom-masini.webp',
+    title: 'Prima Mașină, Primele Formalități: Ce Documente și Asigurări Îți Trebuie Când Îți Iei Permisul',
+    description: 'Ți-ai luat prima masina? ➤ Afla ce documente sunt necesare pentru inmatriculare si ce asigurari trebuie sa ai pentru a circula legal si in siguranta',
+    image: '/images/asigurari/blog/common/cheile-masinii-pe-teanc.webp',
     system: 'common'
   },
   {
     slug: 'primul-zbor-cu-avionul-tot-ce-trebuie-sa-stii-pentru-o-experienta-lipsita-de-griji',
-    title:
-      'Primul zbor cu avionul: Tot ce trebuie să știi pentru o experiență lipsită de griji',
-    description:
-      'Ghid complet pentru primul zbor cu avionul: pregătire, proceduri și sfaturi pentru o călătorie fără stres.',
+    title: 'Primul zbor cu avionul - tot ce trebuie sa stii pentru o experienta lipsita de griji',
+    description: 'Zbori pentru prima data? ➤ Afla tot ce trebuie sa stii: pregatiri, proceduri in aeroport, ce se intampla la bord si cum sa ai un zbor confortabil si relaxat',
     image: '/images/asigurari/blog/common/primul-zbor-femeie.webp',
     system: 'common'
   },
   {
     slug: 'reasigurarea-ce-reprezinta-conceptul-cum-functioneaza-si-ce-forme-exista-in-industria-asigurarilor',
-    title:
-      'Reasigurarea: Ce reprezintă conceptul, cum funcționează și ce forme există în industria asigurărilor',
-    description:
-      'Ghid detaliat despre reasigurare: concept, funcționare și importanța în industria asigurărilor.',
+    title: 'Reasigurarea – ce reprezintă conceptul, cum funcționează și ce forme există în industria asigurărilor',
+    description: 'Afla ce înseamna reasigurarea ➤ Cum protejeaza companiile de asigurari impotriva riscurilor majore ➤ Care sunt tipurile de reasigurare ➤ Ce rol joaca in piata din Romania',
     image: '/images/asigurari/blog/common/reasigurare.webp',
     system: 'common'
   },
   {
     slug: 'regie-proprie-totul-despre-receptia-lucrarilor-de-constructii-in-regie-proprie',
-    title:
-      'Regie proprie: Totul despre recepția lucrărilor de construcții în regie proprie',
-    description:
-      'Ghid complet despre construcțiile în regie proprie: proceduri, documente și aspecte legale.',
-    image: '/images/asigurari/blog/common/proiect-organizare-de-santier.webp',
+    title: 'Regie proprie: totul despre recepția lucrărilor de construcții în regie proprie',
+    description: 'Afla cum sa faci receptia lucrarilor corect ➤ Ce documente sunt necesare si ce greseli sa eviti',
+    image: '/images/asigurari/blog/common/lucrari-de-constructii.webp',
     system: 'common'
   },
   {
     slug: 'risc-asigurat-si-risc-neasigurat-ce-trebuie-sa-stii-inainte-sa-semnezi-polita',
-    title:
-      'Risc asigurat și risc neasigurat: Ce trebuie să știi înainte să semnezi polița',
-    description:
-      'Ghid esențial despre riscurile asigurate și neasigurate: diferențe și ce să verifici în poliță.',
-    image: '/images/asigurari/blog/common/scriere-in-document.webp',
+    title: 'Risc asigurat și risc neasigurat – ce trebuie să știi înainte să semnezi polița',
+    description: 'Esti acoperit in caz de furt sau inundatie? ➤ Invata sa citesti corect o polita si sa recunosti diferentele intre riscurile acoperite si cele excluse',
+    image: '/images/asigurari/blog/common/persoana-cu-umbrela.webp',
     system: 'common'
   },
   {
     slug: 'risc-de-incendiu-ghid-esential-pentru-prevenirea-incendiilor-si-pentru-siguranta-locuintei',
-    title:
-      'Risc de incendiu: Ghid esențial pentru prevenirea incendiilor și pentru siguranța locuinței',
-    description:
-      'Ghid complet despre prevenirea incendiilor: măsuri de siguranță și rolul asigurării de locuință.',
-    image: '/images/asigurari/blog/common/extinctor.webp',
+    title: 'Risc de incendiu - ghid esențial pentru prevenirea incendiilor și pentru siguranța locuinței',
+    description: 'Afla cum sa previi incendiile acasa ➤ De la evaluarea riscurilor, mssuri de siguranta pana la plan de evacuare, stingatoare si importanta asigurarii locuintei impotriva incendiilor',
+    image: '/images/asigurari/blog/common/alarma-de-incendiu.webp',
     system: 'common'
   },
   {
     slug: 'riscuri-pentru-agricultori-si-cum-sa-le-gestionezi-ghid-complet-pentru-fermieri',
-    title:
-      'Riscuri pentru agricultori și cum să le gestionezi: Ghid complet pentru fermieri',
-    description:
-      'Ghid pentru agricultori: principalele riscuri în agricultură și soluții de asigurare pentru protecție.',
+    title: 'Riscuri pentru agricultori și cum să le gestionezi – Ghid complet pentru fermieri',
+    description: 'Agricultura este expusa la riscuri climatice, economice si biologice ➤ Afla cum sa iti protejezi ferma prin asigurări agricole, tehnologii avansate si strategii financiare eficiente',
     image: '/images/asigurari/blog/common/fermier-ingrijorat-de-furtuna.webp',
     system: 'common'
   },
   {
     slug: 'rolul-asf-ului-in-asigurari-ghid-complet-pentru-asigurati',
     title: 'Rolul ASF-ului în asigurări: Ghid complet pentru asigurați',
-    description:
-      'Tot ce trebuie să știi despre ASF: rol, atribuții și cum te protejează ca asigurat.',
-    image: '/images/asigurari/blog/common/asf-contract-protectie.webp',
+    description: 'Afla ce este Autoritatea de Supraveghere Financiara si cum protejeaza aceasta consumatorii in industria asigurarilor ➤ Descopera reglementarile, supravegherea si interventiile ASF in piata de asigurari din Romania',
+    image: '/images/asigurari/blog/common/asf-protectie.webp',
     system: 'common'
   },
   {
     slug: 'sfaturi-de-calatorie-in-cipru-obiective-turistice-de-neratat-optiuni-de-cazare-si-solutii-pentru-o-vacanta-reusita',
-    title:
-      'Sfaturi de călătorie în Cipru: Obiective turistice de neratat, opțiuni de cazare și soluții pentru o vacanță reușită',
-    description:
-      'Ghid complet pentru vacanța în Cipru: obiective turistice, cazare și sfaturi pentru o călătorie perfectă.',
-    image: '/images/asigurari/blog/common/ape-turcoaz-cristaline.webp',
+    title: 'Sfaturi de călătorie în Cipru: obiective turistice de neratat, opțiuni de cazare și soluții pentru o vacanță reușită',
+    description: 'Descopera farmecul Ciprului printr-un ghid complet cu sfaturi de calatorie, de la documente necesare si transport, pana la cele mai frumoase obiective turistice si plaje ➤ Afla unde sa te cazezi, ce delicii locale sa incerci si cum sa iti planifici vacanta pentru o experienta relaxanta si lipsita de griji',
+    image: '/images/asigurari/blog/common/far-langa-mare.webp',
     system: 'common'
   },
   {
     slug: 'sfaturi-de-calatorie-in-iordania-de-la-misterul-petrei-la-farmecul-desertului-wadi-rum',
-    title:
-      'Sfaturi de călătorie în Iordania: De la misterul Petrei la farmecul desertului Wadi Rum',
-    description:
-      'Ghid de călătorie în Iordania: obiective impresionante, sfaturi practice și cum să îți planifici vacanța.',
-    image: '/images/asigurari/blog/common/fatada-monumentului-al-khazneh.webp',
+    title: 'Sfaturi de călătorie în Iordania: de la misterul Petrei la farmecul deșertului Wadi Rum',
+    description: 'Planifici o vacanta in Iordania? ➤ Afla cum obtii viza, unde te cazezi, ce mananci si ce locuri nu trebuie sa ratezi ➤ de la Petra si Wadi Rum pana la Marea Moarta si Aqaba',
+    image: '/images/asigurari/blog/common/formatiuni-stancoase-rosii.webp',
     system: 'common'
   },
   {
     slug: 'top-10-situatii-neasteptate-din-viata-si-ce-tip-de-asigurare-te-poate-salva',
-    title:
-      'Top 10 situații neașteptate din viață și ce tip de asigurare te poate salva',
-    description:
-      'Descoperă cele mai comune situații neașteptate și ce asigurări te pot proteja în fiecare caz.',
-    image:
-      '/images/asigurari/blog/common/femeie-ingrijorata-vorbind-la-telefon.webp',
+    title: 'Top 10 situații neașteptate din viață și ce tip de asigurare te poate salva',
+    description: 'Afla ce tip de asigurare te protejeaza in caz de accidente, probleme medicale, dezastre naturale sau vacante ratate ➤ Descopera cum sa fii pregatit pentru orice situatie',
+    image: '/images/asigurari/blog/common/furtuna-cu-grindina.webp',
     system: 'common'
   },
   {
     slug: 'top-5-activitati-recreative-de-weekend-pentru-familii-cu-copii',
     title: 'Top 5 activități recreative de weekend pentru familii cu copii',
-    description:
-      'Idei de activități recreative pentru familii cu copii și cum să vă protejați în timpul acestora.',
+    description: 'Descopera cele mai distractive si sigure activitati pentru copii ➤ Afla cum o asigurare de accidente iti poate oferi linistea necesara',
     image: '/images/asigurari/blog/common/familie-facand-fursecuri.webp',
     system: 'common'
   },
   {
     slug: 'top-7-incidente-neasteptate-pe-drumuri-cum-o-polita-de-asigurare-a-operatorilor-de-transport-rutier-te-poate-salva',
-    title:
-      'Top 7 incidente neașteptate pe drumuri: Cum o poliță de asigurare a operatorilor de transport rutier te poate salva',
-    description:
-      'Cele mai comune incidente în transportul rutier și cum te protejează asigurarea specializată.',
+    title: 'Top 7 Incidente Neașteptate pe Drumuri: Cum o Poliță de Asigurare a Operatorilor de Transport Rutier Te Poate Salva',
+    description: 'De la accidente si furturi la probleme tehnice, afla cum o asigurare a operatorilor de transport iti protejeaza afacerea ➤ Nu lasa imprevizibilul sa iti afecteze profitul',
     image: '/images/asigurari/blog/common/coliziune-tir.webp',
     system: 'common'
   },
   {
     slug: 'tot-ce-trebuie-sa-stii-despre-protectia-oferita-de-o-asigurare-pentru-transplant-de-celule-stem',
-    title:
-      'Tot ce trebuie să știi despre protecția oferită de o asigurare pentru transplant de celule stem',
-    description:
-      'Ghid complet despre asigurarea pentru transplant de celule stem: acoperiri, beneficii și cum funcționează.',
-    image: '/images/asigurari/blog/common/asigurare-cu-celule-stem.webp',
+    title: 'Tot ce trebuie să știi despre protecția oferită de o asigurare pentru transplant de celule stem',
+    description: 'Transplantul cu celule stem poate salva vieti, dar costurile sunt ridicate ➤ Afla cum o asigurare specializata te ajuta sa acoperi cheltuielile medicale, tratamentele post-transplant si accesul la centre de top',
+    image: '/images/asigurari/blog/common/celule-stem.webp',
     system: 'common'
   },
   {
     slug: 'vacanta-in-egipt-riscuri-de-evitat-si-sfaturi-pentru-o-calatorie-sigura',
-    title:
-      'Vacanță în Egipt: Riscuri de evitat și sfaturi pentru o călătorie sigură',
-    description:
-      'Ghid pentru vacanța în Egipt: riscuri, măsuri de siguranță și sfaturi pentru o călătorie fără griji.',
+    title: 'Vacanță în Egipt - riscuri de evitat și sfaturi pentru o călătorie sigură',
+    description: 'Planuiesti o vacanta in Egipt? ➤ Afla ce riscuri trebuie evitate, ce documente sunt necesare, sfaturi de siguranta si recomandari practice pentru o calatorie fara griji',
     image: '/images/asigurari/blog/common/vacanta-egipt.webp',
     system: 'common'
   },
   {
     slug: 'vacanta-in-grecia-cu-masina-sfaturi-pentru-o-calatorie-sigura',
-    title: 'Vacanță în Grecia cu mașina: Sfaturi pentru o călătorie sigură',
-    description:
-      'Ghid complet pentru călătoria cu mașina în Grecia: trasee, documente necesare și sfaturi de siguranță.',
-    image: '/images/asigurari/blog/common/masina-grecia.webp',
+    title: 'Vacanta in Grecia cu masina - sfaturi pentru o calatorie sigura',
+    description: 'Planifici o vacanta in Grecia cu masina? ➤ Afla care sunt cele mai bune trasee, documentele necesare, destinatiile populare si sfaturi utile pentru drum si siguranta',
+    image: '/images/asigurari/blog/common/familie-grecia.webp',
     system: 'common'
   },
   {
     slug: 'zoonoze-informatii-esentiale-despre-bolile-transmise-de-la-animale',
-    title:
-      'Zoonoze: Informații esențiale despre bolile transmise de la animale',
-    description:
-      'Ghid complet despre zoonoze: ce sunt, cum se transmit și măsuri de prevenție.',
-    image: '/images/asigurari/blog/common/caine-mic-maro.webp',
+    title: 'Zoonoze - informații esențiale despre bolile transmise de la animale',
+    description: 'Afla ce sunt zoonozele, ce boli se transmit de la animale la oameni si cum le poti preveni ➤ Descopera riscurile, masurile de igiena si importanta asigurarii de sanatate pentru siguranta ta si a familiei',
+    image: '/images/asigurari/blog/common/pisica-gri.webp',
     system: 'common'
-  }
+  },
 ]
 
 export const cmrArticles: BlogArticle[] = [

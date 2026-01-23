@@ -3,6 +3,11 @@ export interface TocItem {
   title: string
 }
 
+export interface ConclusionItem {
+  text: string
+  href: string
+}
+
 export interface ListItem {
   title?: string
   items: string[]
@@ -43,5 +48,5 @@ export interface BlogArticleData {
   summary?: string[]
   toc_items?: TocItem[]
   content_sections: ContentSection[]
-  conclusion?: string
+  conclusion?: ConclusionItem[] | string
 }
